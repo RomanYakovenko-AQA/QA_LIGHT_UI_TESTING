@@ -13,7 +13,17 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b57e98c7-15d2-4eb2-98ae-5203a41fadae" name="Changes" comment="" />
+    <list default="true" id="b57e98c7-15d2-4eb2-98ae-5203a41fadae" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/log/qalight.log" beforeDir="false" afterPath="$PROJECT_DIR$/log/qalight.log" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -29,6 +39,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "RomanYakovenko-AQA"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/RomanYakovenko-AQA/QA_LIGHT_UI_TESTING.git&quot;,
+    &quot;accountId&quot;: &quot;3fb81826-72bb-4f06-8a43-93dcefd0aeee&quot;
+  }
+}</component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
@@ -37,33 +59,32 @@
       </MavenGeneralSettings>
     </option>
   </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 2
+}]]></component>
   <component name="ProjectId" id="2l9Q4a8jcZLmmUzxlTT28oVK01k" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "JUnit.LoginTestWithPageObject.TR001_validLogin.executor": "Run",
+    "JUnit.LoginTestWithPageObject.TR003_invalidPassword (1).executor": "Run",
+    "JUnit.LoginTestWithPageObject.executor": "Run",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "run.code.analysis.last.selected.profile": "pProject Default"
+  }
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\yakovenr\Documents\QA_LIGHT_UI_TESTING\src\main\resources" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.LoginTestWithPageObject.TR003_invalidPassword">
-    <configuration name="LoginTestAllInOneFile" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="QA_LIGHT_UI_TESTING" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="loginTests.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="loginTests" />
-      <option name="MAIN_CLASS_NAME" value="loginTests.LoginTestAllInOneFile" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="JUnit.LoginTestWithPageObject">
     <configuration name="LoginTestWithPageObject" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="QA_LIGHT_UI_TESTING" />
       <extension name="coverage">
@@ -111,6 +132,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="LoginTestWithPageObject.TR003_invalidPassword (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="QA_LIGHT_UI_TESTING" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="loginTests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="loginTests" />
+      <option name="MAIN_CLASS_NAME" value="loginTests.LoginTestWithPageObject" />
+      <option name="METHOD_NAME" value="TR003_invalidPassword" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="LoginTestWithPageObject.TR003_invalidPassword" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage">
         <pattern>
@@ -126,13 +163,40 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Whole project" type="JUnit" factoryName="JUnit" activateToolWindowBeforeRun="false" temporary="true" nameIsGenerated="true">
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="loginTests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="ALTERNATIVE_JRE_PATH" value="openjdk-15" />
+      <option name="PACKAGE_NAME" value="loginTests" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="wholeProject" />
+      </option>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.LoginTestWithPageObject" />
+      <item itemvalue="JUnit.LoginTestWithPageObject.TR003_invalidPassword (1)" />
+      <item itemvalue="JUnit.LoginTestWithPageObject.TR001_validLogin" />
+      <item itemvalue="JUnit.Whole project" />
+      <item itemvalue="JUnit.LoginTestWithPageObject.TR002_invalidLogin" />
+    </list>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.LoginTestWithPageObject.TR003_invalidPassword" />
         <item itemvalue="JUnit.LoginTestWithPageObject" />
-        <item itemvalue="JUnit.LoginTestWithPageObject.TR002_invalidLogin" />
         <item itemvalue="JUnit.LoginTestWithPageObject.TR001_validLogin" />
-        <item itemvalue="JUnit.LoginTestAllInOneFile" />
+        <item itemvalue="JUnit.LoginTestWithPageObject.TR003_invalidPassword (1)" />
+        <item itemvalue="JUnit.LoginTestWithPageObject.TR002_invalidLogin" />
+        <item itemvalue="JUnit.Whole project" />
       </list>
     </recent_temporary>
   </component>
@@ -157,9 +221,17 @@
         </entry>
       </map>
     </option>
-    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/QA_LIGHT_UI_TESTING$Whole_project.ic" NAME="Whole project Coverage Results" MODIFIED="1737301753315" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true">
+      <FILTER>loginTests.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/QA_LIGHT_UI_TESTING$LoginTestWithPageObject_TR002_invalidLogin.ic" NAME="LoginTestWithPageObject.TR002_invalidLogin Coverage Results" MODIFIED="1737300940665" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>loginTests.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/QA_LIGHT_UI_TESTING$LoginTestWithPageObject_TR003_invalidPassword.ic" NAME="LoginTestWithPageObject.TR003_invalidPassword Coverage Results" MODIFIED="1737299393705" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true">
+      <FILTER>loginTests.*</FILTER>
+    </SUITE>
     <SUITE FILE_PATH="coverage/QA_LIGHT_UI_TESTING$LoginTestAllInOneFile_invalidLogin.ic" NAME="LoginTestAllInOneFile.invalidLogin Coverage Results" MODIFIED="1725795724289" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>loginTests.*</FILTER>
     </SUITE>

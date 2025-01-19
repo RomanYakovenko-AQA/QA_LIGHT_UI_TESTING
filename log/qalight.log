@@ -705,13 +705,33 @@
 2025-12-01 21:13:23   INFO [loginTests.LoginTestWithPageObject] : Browser was closed
 2025-12-01 21:13:23   INFO [loginTests.LoginTestWithPageObject] : Test finished
 2025-12-01 21:13:23   INFO [loginTests.LoginTestWithPageObject] : ------------
-2025-12-01 21:40:34   INFO [loginTests.LoginTestWithPageObject] : Test started
-2025-12-01 21:40:37   INFO [loginTests.LoginTestWithPageObject] : Browser was opened
-2025-12-01 21:40:38   INFO [pages.LoginPage] : Login page was openned
-2025-12-01 21:40:38   INFO [pages.LoginPage] :  'qaauto'  was inputed into element 
-2025-12-01 21:40:38   INFO [pages.LoginPage] :  '!123456qwerty'  was inputed into element 
-2025-12-01 21:40:41   INFO [pages.LoginPage] : Element [[ChromeDriver: chrome on WINDOWS (906959331de8d05f76b3c1f3bcdb75da)] -> xpath: //button[text()='Sign In']] was clicked
-2025-12-01 21:40:41   INFO [pages.LoginPage] : Element [[ChromeDriver: chrome on WINDOWS (906959331de8d05f76b3c1f3bcdb75da)] -> xpath: //div[text()='Invalid username/password.']] is displayed
-2025-12-01 21:40:42   INFO [loginTests.LoginTestWithPageObject] : Browser was closed
-2025-12-01 21:40:42   INFO [loginTests.LoginTestWithPageObject] : Test finished
-2025-12-01 21:40:42   INFO [loginTests.LoginTestWithPageObject] : ------------
+2025-19-01 18:05:59   INFO [loginTests.LoginTestWithPageObject] : Test started
+2025-19-01 18:06:03   INFO [loginTests.LoginTestWithPageObject] : Browser was opened
+2025-19-01 18:06:05   INFO [pages.LoginPage] : Login page was openned
+2025-19-01 18:06:05   INFO [pages.LoginPage] :  'qaauto'  was inputed into element 
+2025-19-01 18:06:05   INFO [pages.LoginPage] :  '!123456qwerty'  was inputed into element 
+2025-19-01 18:06:08   INFO [pages.LoginPage] : Element [[ChromeDriver: chrome on WINDOWS (1cc94fa1d0fa1de37cf753eaf356ce7a)] -> xpath: //button[text()='Sign In']] was clicked
+2025-19-01 18:06:08   INFO [pages.LoginPage] : Element [[ChromeDriver: chrome on WINDOWS (1cc94fa1d0fa1de37cf753eaf356ce7a)] -> xpath: //div[text()='Invalid username/password.']] is displayed
+2025-19-01 18:06:08   INFO [loginTests.LoginTestWithPageObject] : Browser was closed
+2025-19-01 18:06:08   INFO [loginTests.LoginTestWithPageObject] : Test finished
+2025-19-01 18:06:08   INFO [loginTests.LoginTestWithPageObject] : ------------
+2025-19-01 18:06:08   INFO [loginTests.LoginTestWithPageObject] : Test started
+2025-19-01 18:06:10   INFO [loginTests.LoginTestWithPageObject] : Browser was opened
+2025-19-01 18:06:12   INFO [pages.LoginPage] : Login page was openned
+2025-19-01 18:06:12   INFO [pages.LoginPage] :  'qaauto'  was inputed into element 
+2025-19-01 18:06:12   INFO [pages.LoginPage] :  '123456qwerty'  was inputed into element 
+2025-19-01 18:06:20   INFO [pages.LoginPage] : Element Proxy element for: DefaultElementLocator 'By.xpath: //button[text()='Sign In']' was clicked
+2025-19-01 18:06:20   INFO [pages.HomePage] : Element [[ChromeDriver: chrome on WINDOWS (e54897090a8002d55db77c6c10fbfee8)] -> xpath: //button[text()='Sign Out']] is displayed
+2025-19-01 18:06:21   INFO [loginTests.LoginTestWithPageObject] : Browser was closed
+2025-19-01 18:06:21   INFO [loginTests.LoginTestWithPageObject] : Test finished
+2025-19-01 18:06:21   INFO [loginTests.LoginTestWithPageObject] : ------------
+2025-19-01 18:06:21   INFO [loginTests.LoginTestWithPageObject] : Test started
+2025-19-01 18:06:23   INFO [loginTests.LoginTestWithPageObject] : Browser was opened
+2025-19-01 18:06:24   INFO [pages.LoginPage] : Login page was openned
+2025-19-01 18:06:25   INFO [pages.LoginPage] :  '!qaauto'  was inputed into element 
+2025-19-01 18:06:25   INFO [pages.LoginPage] :  '123456qwerty'  was inputed into element 
+2025-19-01 18:06:27   INFO [pages.LoginPage] : Element [[ChromeDriver: chrome on WINDOWS (84300fcfa799e8d1d2d04f3d48f68e8e)] -> xpath: //button[text()='Sign In']] was clicked
+2025-19-01 18:06:27   INFO [pages.LoginPage] : Element [[ChromeDriver: chrome on WINDOWS (84300fcfa799e8d1d2d04f3d48f68e8e)] -> xpath: //div[text()='Invalid username/password.']] is displayed
+2025-19-01 18:06:28   INFO [loginTests.LoginTestWithPageObject] : Browser was closed
+2025-19-01 18:06:28   INFO [loginTests.LoginTestWithPageObject] : Test finished
+2025-19-01 18:06:28   INFO [loginTests.LoginTestWithPageObject] : ------------
