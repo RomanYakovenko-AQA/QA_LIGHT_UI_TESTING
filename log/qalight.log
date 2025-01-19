@@ -1,0 +1,717 @@
+   2024-25-08 21:29:42   INFO [loginTests.LoginTestAllInOneFile] : Browser was opened
+2024-25-08 21:45:52   INFO [loginTests.LoginTestAllInOneFile] : Browser was opened
+2024-25-08 21:45:56   INFO [loginTests.LoginTestAllInOneFile] : Browser was closed
+2024-25-08 21:46:17   INFO [loginTests.LoginTestAllInOneFile] : Browser was opened
+2024-25-08 21:46:19   INFO [loginTests.LoginTestAllInOneFile] : Site was opened
+2024-25-08 21:46:20   INFO [loginTests.LoginTestAllInOneFile] : Browser was closed
+2024-25-08 21:49:55   INFO [loginTests.LoginTestAllInOneFile] : Test started
+2024-25-08 21:50:00   INFO [loginTests.LoginTestAllInOneFile] : Browser was opened
+2024-25-08 21:50:05   INFO [loginTests.LoginTestAllInOneFile] : Site was opened
+2024-25-08 21:50:06   INFO [loginTests.LoginTestAllInOneFile] : Browser was closed
+2024-25-08 21:50:06   INFO [loginTests.LoginTestAllInOneFile] : Test finished
+2024-25-08 21:51:40   INFO [loginTests.LoginTestAllInOneFile] : Test started
+2024-25-08 21:51:46   INFO [loginTests.LoginTestAllInOneFile] : Browser was opened
+2024-25-08 21:51:48   INFO [loginTests.LoginTestAllInOneFile] : Site was opened
+2024-25-08 21:51:50   INFO [loginTests.LoginTestAllInOneFile] : Browser was closed
+2024-25-08 21:51:50   INFO [loginTests.LoginTestAllInOneFile] : Test finished
+2024-25-08 21:51:50   INFO [loginTests.LoginTestAllInOneFile] : ------------
+2024-25-08 21:52:15   INFO [loginTests.LoginTestAllInOneFile] : Test started
+2024-25-08 21:52:20   INFO [loginTests.LoginTestAllInOneFile] : Browser was opened
+2024-25-08 21:52:22   INFO [loginTests.LoginTestAllInOneFile] : Site was opened
+2024-25-08 21:52:23   INFO [loginTests.LoginTestAllInOneFile] : Browser was closed
+2024-25-08 21:52:23   INFO [loginTests.LoginTestAllInOneFile] : Test finished
+2024-25-08 21:52:24   INFO [loginTests.LoginTestAllInOneFile] : ------------
+2024-25-08 21:58:05   INFO [loginTests.LoginTestAllInOneFile] : Test started
+2024-25-08 21:58:11   INFO [loginTests.LoginTestAllInOneFile] : Browser was opened
+2024-25-08 21:58:14   INFO [loginTests.LoginTestAllInOneFile] : Site was opened
+2024-25-08 21:58:15   INFO [loginTests.LoginTestAllInOneFile] : Browser was closed
+2024-25-08 21:58:15   INFO [loginTests.LoginTestAllInOneFile] : Test finished
+2024-25-08 21:58:15   INFO [loginTests.LoginTestAllInOneFile] : ------------
+2024-25-08 22:12:04   INFO [loginTests.LoginTestAllInOneFile] : Test started
+2024-25-08 22:12:09   INFO [loginTests.LoginTestAllInOneFile] : Browser was opened
+2024-25-08 22:12:47   INFO [loginTests.LoginTestAllInOneFile] : Site was opened
+2024-25-08 22:12:47   INFO [loginTests.LoginTestAllInOneFile] : qaauto was inputted into input Login
+2024-25-08 22:12:48   INFO [loginTests.LoginTestAllInOneFile] : Browser was closed
+2024-25-08 22:12:48   INFO [loginTests.LoginTestAllInOneFile] : Test finished
+2024-25-08 22:12:48   INFO [loginTests.LoginTestAllInOneFile] : ------------
+2024-25-08 22:23:36   INFO [loginTests.LoginTestAllInOneFile] : Test started
+2024-25-08 22:23:38   INFO [loginTests.LoginTestAllInOneFile] : Browser was opened
+2024-25-08 22:23:41   INFO [loginTests.LoginTestAllInOneFile] : Site was opened
+2024-25-08 22:23:41   INFO [loginTests.LoginTestAllInOneFile] : qaauto was inputted into input Login
+2024-25-08 22:23:42   INFO [loginTests.LoginTestAllInOneFile] : Browser was closed
+2024-25-08 22:23:42   INFO [loginTests.LoginTestAllInOneFile] : Test finished
+2024-25-08 22:23:42   INFO [loginTests.LoginTestAllInOneFile] : ------------
+2024-25-08 22:34:24   INFO [loginTests.LoginTestAllInOneFile] : Test started
+2024-25-08 22:34:37   INFO [loginTests.LoginTestAllInOneFile] : Browser was opened
+2024-25-08 22:34:39   INFO [loginTests.LoginTestAllInOneFile] : Site was opened
+2024-25-08 22:34:39   INFO [loginTests.LoginTestAllInOneFile] : qaauto was inputted into input Login
+2024-25-08 22:34:41   INFO [loginTests.LoginTestAllInOneFile] : Browser was closed
+2024-25-08 22:34:41   INFO [loginTests.LoginTestAllInOneFile] : Test finished
+2024-25-08 22:34:41   INFO [loginTests.LoginTestAllInOneFile] : ------------
+2024-25-08 22:35:50   INFO [loginTests.LoginTestAllInOneFile] : Test started
+2024-25-08 22:35:54   INFO [loginTests.LoginTestAllInOneFile] : Browser was opened
+2024-25-08 22:35:57   INFO [loginTests.LoginTestAllInOneFile] : Site was opened
+2024-25-08 22:35:57   INFO [loginTests.LoginTestAllInOneFile] : qaauto was inputted into input Login
+2024-25-08 22:35:57   INFO [loginTests.LoginTestAllInOneFile] : Password was inputted into input Password
+2024-25-08 22:36:00   INFO [loginTests.LoginTestAllInOneFile] : Button Sign In Was clicked
+2024-25-08 22:36:01   INFO [loginTests.LoginTestAllInOneFile] : Browser was closed
+2024-25-08 22:36:01   INFO [loginTests.LoginTestAllInOneFile] : Test finished
+2024-25-08 22:36:01   INFO [loginTests.LoginTestAllInOneFile] : ------------
+2024-25-08 22:50:30   INFO [loginTests.LoginTestAllInOneFile] : Test started
+2024-25-08 22:50:35   INFO [loginTests.LoginTestAllInOneFile] : Browser was opened
+2024-25-08 22:50:37   INFO [loginTests.LoginTestAllInOneFile] : Site was opened
+2024-25-08 22:50:38   INFO [loginTests.LoginTestAllInOneFile] : qaauto was inputted into input Login
+2024-25-08 22:50:38   INFO [loginTests.LoginTestAllInOneFile] : Password was inputted into input Password
+2024-25-08 22:50:41   INFO [loginTests.LoginTestAllInOneFile] : Button Sign In Was clicked
+2024-25-08 22:50:41   INFO [loginTests.LoginTestAllInOneFile] : true is element displayed
+2024-25-08 22:50:42   INFO [loginTests.LoginTestAllInOneFile] : Browser was closed
+2024-25-08 22:50:42   INFO [loginTests.LoginTestAllInOneFile] : Test finished
+2024-25-08 22:50:42   INFO [loginTests.LoginTestAllInOneFile] : ------------
+2024-25-08 22:51:00   INFO [loginTests.LoginTestAllInOneFile] : Test started
+2024-25-08 22:51:07   INFO [loginTests.LoginTestAllInOneFile] : Browser was opened
+2024-25-08 22:51:10   INFO [loginTests.LoginTestAllInOneFile] : Site was opened
+2024-25-08 22:51:10   INFO [loginTests.LoginTestAllInOneFile] : qaauto was inputted into input Login
+2024-25-08 22:51:10   INFO [loginTests.LoginTestAllInOneFile] : Password was inputted into input Password
+2024-25-08 22:51:13   INFO [loginTests.LoginTestAllInOneFile] : Button Sign In Was clicked
+2024-25-08 22:51:18   INFO [loginTests.LoginTestAllInOneFile] : Element is not present on page
+2024-25-08 22:51:20   INFO [loginTests.LoginTestAllInOneFile] : Browser was closed
+2024-25-08 22:51:20   INFO [loginTests.LoginTestAllInOneFile] : Test finished
+2024-25-08 22:51:20   INFO [loginTests.LoginTestAllInOneFile] : ------------
+2024-07-09 18:41:52   INFO [loginTests.LoginTestAllInOneFile] : Test started
+2024-07-09 18:42:06   INFO [loginTests.LoginTestAllInOneFile] : Browser was opened
+2024-07-09 18:42:09   INFO [loginTests.LoginTestAllInOneFile] : Site was opened
+2024-07-09 18:42:10   INFO [loginTests.LoginTestAllInOneFile] : qaauto was inputted into input Login
+2024-07-09 18:42:10   INFO [loginTests.LoginTestAllInOneFile] : Password was inputted into input Password
+2024-07-09 18:42:13   INFO [loginTests.LoginTestAllInOneFile] : Button Sign In Was clicked
+2024-07-09 18:42:18   INFO [loginTests.LoginTestAllInOneFile] : Element is not present on page
+2024-07-09 18:42:19   INFO [loginTests.LoginTestAllInOneFile] : Browser was closed
+2024-07-09 18:42:19   INFO [loginTests.LoginTestAllInOneFile] : Test finished
+2024-07-09 18:42:19   INFO [loginTests.LoginTestAllInOneFile] : ------------
+2024-07-09 18:42:36   INFO [loginTests.LoginTestAllInOneFile] : Test started
+2024-07-09 18:42:41   INFO [loginTests.LoginTestAllInOneFile] : Browser was opened
+2024-07-09 18:42:42   INFO [loginTests.LoginTestAllInOneFile] : Site was opened
+2024-07-09 18:42:42   INFO [loginTests.LoginTestAllInOneFile] : qaauto was inputted into input Login
+2024-07-09 18:42:43   INFO [loginTests.LoginTestAllInOneFile] : Password was inputted into input Password
+2024-07-09 18:42:46   INFO [loginTests.LoginTestAllInOneFile] : Button Sign In Was clicked
+2024-07-09 18:42:46   INFO [loginTests.LoginTestAllInOneFile] : true is element displayed
+2024-07-09 18:42:47   INFO [loginTests.LoginTestAllInOneFile] : Browser was closed
+2024-07-09 18:42:47   INFO [loginTests.LoginTestAllInOneFile] : Test finished
+2024-07-09 18:42:47   INFO [loginTests.LoginTestAllInOneFile] : ------------
+2024-08-09 14:12:27   INFO [loginTests.LoginTestAllInOneFile] : Test started
+2024-08-09 14:12:31   INFO [loginTests.LoginTestAllInOneFile] : Browser was opened
+2024-08-09 14:12:39   INFO [loginTests.LoginTestAllInOneFile] : Site was opened
+2024-08-09 14:12:39   INFO [loginTests.LoginTestAllInOneFile] : qaauto was inputted into input Login
+2024-08-09 14:12:39   INFO [loginTests.LoginTestAllInOneFile] : Password was inputted into input Password
+2024-08-09 14:12:42   INFO [loginTests.LoginTestAllInOneFile] : Button Sign In Was clicked
+2024-08-09 14:12:47   INFO [loginTests.LoginTestAllInOneFile] : Element is not present on page
+2024-08-09 14:12:47   INFO [loginTests.LoginTestAllInOneFile] : Browser was closed
+2024-08-09 14:12:47   INFO [loginTests.LoginTestAllInOneFile] : Test finished
+2024-08-09 14:12:47   INFO [loginTests.LoginTestAllInOneFile] : ------------
+2024-08-09 14:13:03   INFO [loginTests.LoginTestAllInOneFile] : Test started
+2024-08-09 14:13:06   INFO [loginTests.LoginTestAllInOneFile] : Browser was opened
+2024-08-09 14:13:08   INFO [loginTests.LoginTestAllInOneFile] : Site was opened
+2024-08-09 14:13:08   INFO [loginTests.LoginTestAllInOneFile] : qaauto was inputted into input Login
+2024-08-09 14:13:08   INFO [loginTests.LoginTestAllInOneFile] : Password was inputted into input Password
+2024-08-09 14:13:11   INFO [loginTests.LoginTestAllInOneFile] : Button Sign In Was clicked
+2024-08-09 14:13:12   INFO [loginTests.LoginTestAllInOneFile] : true is element displayed
+2024-08-09 14:13:12   INFO [loginTests.LoginTestAllInOneFile] : Browser was closed
+2024-08-09 14:13:12   INFO [loginTests.LoginTestAllInOneFile] : Test finished
+2024-08-09 14:13:12   INFO [loginTests.LoginTestAllInOneFile] : ------------
+2024-08-09 14:14:38   INFO [loginTests.LoginTestAllInOneFile] : Test started
+2024-08-09 14:14:40   INFO [loginTests.LoginTestAllInOneFile] : Browser was opened
+2024-08-09 14:14:42   INFO [loginTests.LoginTestAllInOneFile] : Site was opened
+2024-08-09 14:14:42   INFO [loginTests.LoginTestAllInOneFile] : qaauto was inputted into input Login
+2024-08-09 14:14:42   INFO [loginTests.LoginTestAllInOneFile] : Password was inputted into input Password
+2024-08-09 14:14:46   INFO [loginTests.LoginTestAllInOneFile] : Button Sign In Was clicked
+2024-08-09 14:14:46   INFO [loginTests.LoginTestAllInOneFile] : true is element displayed
+2024-08-09 14:14:47   INFO [loginTests.LoginTestAllInOneFile] : Browser was closed
+2024-08-09 14:14:47   INFO [loginTests.LoginTestAllInOneFile] : Test finished
+2024-08-09 14:14:47   INFO [loginTests.LoginTestAllInOneFile] : ------------
+2024-08-09 14:14:56   INFO [loginTests.LoginTestAllInOneFile] : Test started
+2024-08-09 14:15:00   INFO [loginTests.LoginTestAllInOneFile] : Browser was opened
+2024-08-09 14:15:02   INFO [loginTests.LoginTestAllInOneFile] : Site was opened
+2024-08-09 14:15:02   INFO [loginTests.LoginTestAllInOneFile] : qaauto was inputted into input Login
+2024-08-09 14:15:02   INFO [loginTests.LoginTestAllInOneFile] : Password was inputted into input Password
+2024-08-09 14:15:06   INFO [loginTests.LoginTestAllInOneFile] : Button Sign In Was clicked
+2024-08-09 14:15:07   INFO [loginTests.LoginTestAllInOneFile] : true is element displayed
+2024-08-09 14:15:07   INFO [loginTests.LoginTestAllInOneFile] : Browser was closed
+2024-08-09 14:15:07   INFO [loginTests.LoginTestAllInOneFile] : Test finished
+2024-08-09 14:15:07   INFO [loginTests.LoginTestAllInOneFile] : ------------
+2024-08-09 14:16:11   INFO [loginTests.LoginTestAllInOneFile] : Test started
+2024-08-09 14:16:15   INFO [loginTests.LoginTestAllInOneFile] : Browser was opened
+2024-08-09 14:16:17   INFO [loginTests.LoginTestAllInOneFile] : Site was opened
+2024-08-09 14:16:18   INFO [loginTests.LoginTestAllInOneFile] : qaauto was inputted into input Login
+2024-08-09 14:16:18   INFO [loginTests.LoginTestAllInOneFile] : Password was inputted into input Password
+2024-08-09 14:16:21   INFO [loginTests.LoginTestAllInOneFile] : Button Sign In Was clicked
+2024-08-09 14:16:21   INFO [loginTests.LoginTestAllInOneFile] : true is element displayed
+2024-08-09 14:16:22   INFO [loginTests.LoginTestAllInOneFile] : Browser was closed
+2024-08-09 14:16:22   INFO [loginTests.LoginTestAllInOneFile] : Test finished
+2024-08-09 14:16:22   INFO [loginTests.LoginTestAllInOneFile] : ------------
+2024-08-09 14:17:28   INFO [loginTests.LoginTestAllInOneFile] : Test started
+2024-08-09 14:17:33   INFO [loginTests.LoginTestAllInOneFile] : Browser was opened
+2024-08-09 14:17:35   INFO [loginTests.LoginTestAllInOneFile] : Site was opened
+2024-08-09 14:17:35   INFO [loginTests.LoginTestAllInOneFile] : qaauto was inputted into input Login
+2024-08-09 14:17:35   INFO [loginTests.LoginTestAllInOneFile] : Password was inputted into input Password
+2024-08-09 14:17:38   INFO [loginTests.LoginTestAllInOneFile] : Button Sign In Was clicked
+2024-08-09 14:17:43   INFO [loginTests.LoginTestAllInOneFile] : Element is not present on page
+2024-08-09 14:17:44   INFO [loginTests.LoginTestAllInOneFile] : Browser was closed
+2024-08-09 14:17:44   INFO [loginTests.LoginTestAllInOneFile] : Test finished
+2024-08-09 14:17:44   INFO [loginTests.LoginTestAllInOneFile] : ------------
+2024-08-09 14:18:54   INFO [loginTests.LoginTestAllInOneFile] : Test started
+2024-08-09 14:18:59   INFO [loginTests.LoginTestAllInOneFile] : Browser was opened
+2024-08-09 14:19:01   INFO [loginTests.LoginTestAllInOneFile] : Site was opened
+2024-08-09 14:19:01   INFO [loginTests.LoginTestAllInOneFile] : 1qaauto was inputted into input Login
+2024-08-09 14:19:02   INFO [loginTests.LoginTestAllInOneFile] : Password was inputted into input Password
+2024-08-09 14:19:04   INFO [loginTests.LoginTestAllInOneFile] : Button Sign In Was clicked
+2024-08-09 14:19:04   INFO [loginTests.LoginTestAllInOneFile] : true is element displayed
+2024-08-09 14:19:05   INFO [loginTests.LoginTestAllInOneFile] : Browser was closed
+2024-08-09 14:19:05   INFO [loginTests.LoginTestAllInOneFile] : Test finished
+2024-08-09 14:19:05   INFO [loginTests.LoginTestAllInOneFile] : ------------
+2024-08-09 14:29:58   INFO [loginTests.LoginTestAllInOneFile] : Test started
+2024-08-09 14:30:01   INFO [loginTests.LoginTestAllInOneFile] : Browser was opened
+2024-08-09 14:30:06   INFO [loginTests.LoginTestAllInOneFile] : Site was opened
+2024-08-09 14:30:06   INFO [loginTests.LoginTestAllInOneFile] : 1qaauto was inputted into input Login
+2024-08-09 14:30:07   INFO [loginTests.LoginTestAllInOneFile] : Password was inputted into input Password
+2024-08-09 14:30:09   INFO [loginTests.LoginTestAllInOneFile] : Button Sign In Was clicked
+2024-08-09 14:30:09   INFO [loginTests.LoginTestAllInOneFile] : true is element displayed
+2024-08-09 14:30:09   INFO [loginTests.LoginTestAllInOneFile] : true is element displayed
+2024-08-09 14:30:10   INFO [loginTests.LoginTestAllInOneFile] : Browser was closed
+2024-08-09 14:30:10   INFO [loginTests.LoginTestAllInOneFile] : Test finished
+2024-08-09 14:30:10   INFO [loginTests.LoginTestAllInOneFile] : ------------
+2024-08-09 14:32:13   INFO [loginTests.LoginTestAllInOneFile] : Test started
+2024-08-09 14:32:16   INFO [loginTests.LoginTestAllInOneFile] : Browser was opened
+2024-08-09 14:32:18   INFO [loginTests.LoginTestAllInOneFile] : Site was opened
+2024-08-09 14:32:18   INFO [loginTests.LoginTestAllInOneFile] : 1qaauto was inputted into input Login
+2024-08-09 14:32:18   INFO [loginTests.LoginTestAllInOneFile] : Password was inputted into input Password
+2024-08-09 14:32:20   INFO [loginTests.LoginTestAllInOneFile] : Button Sign In Was clicked
+2024-08-09 14:32:20   INFO [loginTests.LoginTestAllInOneFile] : true is element displayed
+2024-08-09 14:32:20   INFO [loginTests.LoginTestAllInOneFile] : true is element displayed
+2024-08-09 14:32:25   INFO [loginTests.LoginTestAllInOneFile] : Element is not present on page
+2024-08-09 14:32:26   INFO [loginTests.LoginTestAllInOneFile] : Browser was closed
+2024-08-09 14:32:26   INFO [loginTests.LoginTestAllInOneFile] : Test finished
+2024-08-09 14:32:26   INFO [loginTests.LoginTestAllInOneFile] : ------------
+2024-08-09 14:32:50   INFO [loginTests.LoginTestAllInOneFile] : Test started
+2024-08-09 14:32:53   INFO [loginTests.LoginTestAllInOneFile] : Browser was opened
+2024-08-09 14:32:55   INFO [loginTests.LoginTestAllInOneFile] : Site was opened
+2024-08-09 14:32:55   INFO [loginTests.LoginTestAllInOneFile] : qaauto was inputted into input Login
+2024-08-09 14:32:55   INFO [loginTests.LoginTestAllInOneFile] : Password was inputted into input Password
+2024-08-09 14:32:57   INFO [loginTests.LoginTestAllInOneFile] : Button Sign In Was clicked
+2024-08-09 14:32:57   INFO [loginTests.LoginTestAllInOneFile] : true is element displayed
+2024-08-09 14:32:57   INFO [loginTests.LoginTestAllInOneFile] : true is element displayed
+2024-08-09 14:33:02   INFO [loginTests.LoginTestAllInOneFile] : Element is not present on page
+2024-08-09 14:33:04   INFO [loginTests.LoginTestAllInOneFile] : Browser was closed
+2024-08-09 14:33:04   INFO [loginTests.LoginTestAllInOneFile] : Test finished
+2024-08-09 14:33:04   INFO [loginTests.LoginTestAllInOneFile] : ------------
+2024-08-09 14:33:21   INFO [loginTests.LoginTestAllInOneFile] : Test started
+2024-08-09 14:33:23   INFO [loginTests.LoginTestAllInOneFile] : Browser was opened
+2024-08-09 14:33:25   INFO [loginTests.LoginTestAllInOneFile] : Site was opened
+2024-08-09 14:33:26   INFO [loginTests.LoginTestAllInOneFile] : 1qaauto was inputted into input Login
+2024-08-09 14:33:26   INFO [loginTests.LoginTestAllInOneFile] : Password was inputted into input Password
+2024-08-09 14:33:29   INFO [loginTests.LoginTestAllInOneFile] : Button Sign In Was clicked
+2024-08-09 14:33:34   INFO [loginTests.LoginTestAllInOneFile] : Element is not present on page
+2024-08-09 14:33:35   INFO [loginTests.LoginTestAllInOneFile] : Browser was closed
+2024-08-09 14:33:35   INFO [loginTests.LoginTestAllInOneFile] : Test finished
+2024-08-09 14:33:35   INFO [loginTests.LoginTestAllInOneFile] : ------------
+2024-08-09 14:35:12   INFO [loginTests.LoginTestAllInOneFile] : Test started
+2024-08-09 14:35:15   INFO [loginTests.LoginTestAllInOneFile] : Browser was opened
+2024-08-09 14:35:16   INFO [loginTests.LoginTestAllInOneFile] : Site was opened
+2024-08-09 14:35:16   INFO [loginTests.LoginTestAllInOneFile] : 1qaauto was inputted into input Login
+2024-08-09 14:35:17   INFO [loginTests.LoginTestAllInOneFile] : Password was inputted into input Password
+2024-08-09 14:35:24   INFO [loginTests.LoginTestAllInOneFile] : Button Sign In Was clicked
+2024-08-09 14:35:29   INFO [loginTests.LoginTestAllInOneFile] : Element Button Sign In is not present on page
+2024-08-09 14:35:29   INFO [loginTests.LoginTestAllInOneFile] : Browser was closed
+2024-08-09 14:35:29   INFO [loginTests.LoginTestAllInOneFile] : Test finished
+2024-08-09 14:35:29   INFO [loginTests.LoginTestAllInOneFile] : ------------
+2024-08-09 14:36:00   INFO [loginTests.LoginTestAllInOneFile] : Test started
+2024-08-09 14:36:02   INFO [loginTests.LoginTestAllInOneFile] : Browser was opened
+2024-08-09 14:36:04   INFO [loginTests.LoginTestAllInOneFile] : Site was opened
+2024-08-09 14:36:04   INFO [loginTests.LoginTestAllInOneFile] : 1qaauto was inputted into input Login
+2024-08-09 14:36:04   INFO [loginTests.LoginTestAllInOneFile] : Password was inputted into input Password
+2024-08-09 14:36:07   INFO [loginTests.LoginTestAllInOneFile] : Button Sign In Was clicked
+2024-08-09 14:36:07   INFO [loginTests.LoginTestAllInOneFile] : true is element displayed
+2024-08-09 14:36:07   INFO [loginTests.LoginTestAllInOneFile] : true is element displayed
+2024-08-09 14:36:12   INFO [loginTests.LoginTestAllInOneFile] : Element is not present on page
+2024-08-09 14:36:13   INFO [loginTests.LoginTestAllInOneFile] : Browser was closed
+2024-08-09 14:36:13   INFO [loginTests.LoginTestAllInOneFile] : Test finished
+2024-08-09 14:36:13   INFO [loginTests.LoginTestAllInOneFile] : ------------
+2024-08-09 14:38:12   INFO [loginTests.LoginTestAllInOneFile] : Test started
+2024-08-09 14:38:14   INFO [loginTests.LoginTestAllInOneFile] : Browser was opened
+2024-08-09 14:38:16   INFO [loginTests.LoginTestAllInOneFile] : Site was opened
+2024-08-09 14:38:16   INFO [loginTests.LoginTestAllInOneFile] : 1qaauto was inputted into input Login
+2024-08-09 14:38:16   INFO [loginTests.LoginTestAllInOneFile] : Password was inputted into input Password
+2024-08-09 14:38:19   INFO [loginTests.LoginTestAllInOneFile] : Button Sign In Was clicked
+2024-08-09 14:38:19   INFO [loginTests.LoginTestAllInOneFile] : true Button Sign In is element displayed
+2024-08-09 14:38:19   INFO [loginTests.LoginTestAllInOneFile] : true is element displayed
+2024-08-09 14:38:24   INFO [loginTests.LoginTestAllInOneFile] : Element is not present on page
+2024-08-09 14:38:24   INFO [loginTests.LoginTestAllInOneFile] : Browser was closed
+2024-08-09 14:38:24   INFO [loginTests.LoginTestAllInOneFile] : Test finished
+2024-08-09 14:38:24   INFO [loginTests.LoginTestAllInOneFile] : ------------
+2024-08-09 14:42:05   INFO [loginTests.LoginTestAllInOneFile] : Test started
+2024-08-09 14:42:07   INFO [loginTests.LoginTestAllInOneFile] : Browser was opened
+2024-08-09 14:42:09   INFO [loginTests.LoginTestAllInOneFile] : Site was opened
+2024-08-09 14:42:09   INFO [loginTests.LoginTestAllInOneFile] : 1qaauto was inputted into input Login
+2024-08-09 14:42:09   INFO [loginTests.LoginTestAllInOneFile] : Password was inputted into input Password
+2024-08-09 14:42:12   INFO [loginTests.LoginTestAllInOneFile] : Button Sign In Was clicked
+2024-08-09 14:42:12   INFO [loginTests.LoginTestAllInOneFile] : true Button Sign In is element displayed
+2024-08-09 14:42:12   INFO [loginTests.LoginTestAllInOneFile] : trueAlert 'Invalid username/password.' is element displayed
+2024-08-09 14:42:17   INFO [loginTests.LoginTestAllInOneFile] : Element is not present on page
+2024-08-09 14:42:18   INFO [loginTests.LoginTestAllInOneFile] : Browser was closed
+2024-08-09 14:42:18   INFO [loginTests.LoginTestAllInOneFile] : Test finished
+2024-08-09 14:42:18   INFO [loginTests.LoginTestAllInOneFile] : ------------
+2024-08-09 14:44:56   INFO [loginTests.LoginTestAllInOneFile] : Test started
+2024-08-09 14:44:58   INFO [loginTests.LoginTestAllInOneFile] : Browser was opened
+2024-08-09 14:45:00   INFO [loginTests.LoginTestAllInOneFile] : Site was opened
+2024-08-09 14:45:00   INFO [loginTests.LoginTestAllInOneFile] : qaauto was inputted into input Login
+2024-08-09 14:45:00   INFO [loginTests.LoginTestAllInOneFile] : Password was inputted into input Password
+2024-08-09 14:45:03   INFO [loginTests.LoginTestAllInOneFile] : Button Sign In Was clicked
+2024-08-09 14:45:04   INFO [loginTests.LoginTestAllInOneFile] : true is element 'Sign Out' displayed
+2024-08-09 14:45:04   INFO [loginTests.LoginTestAllInOneFile] : Browser was closed
+2024-08-09 14:45:04   INFO [loginTests.LoginTestAllInOneFile] : Test finished
+2024-08-09 14:45:04   INFO [loginTests.LoginTestAllInOneFile] : ------------
+2024-08-09 14:45:04   INFO [loginTests.LoginTestAllInOneFile] : Test started
+2024-08-09 14:45:05   INFO [loginTests.LoginTestAllInOneFile] : Browser was opened
+2024-08-09 14:45:07   INFO [loginTests.LoginTestAllInOneFile] : Site was opened
+2024-08-09 14:45:07   INFO [loginTests.LoginTestAllInOneFile] : 1qaauto was inputted into input Login
+2024-08-09 14:45:07   INFO [loginTests.LoginTestAllInOneFile] : Password was inputted into input Password
+2024-08-09 14:45:11   INFO [loginTests.LoginTestAllInOneFile] : Button Sign In Was clicked
+2024-08-09 14:45:11   INFO [loginTests.LoginTestAllInOneFile] : true Button Sign In is displayed
+2024-08-09 14:45:11   INFO [loginTests.LoginTestAllInOneFile] : trueAlert 'Invalid username/password.' is element displayed
+2024-08-09 14:45:16   INFO [loginTests.LoginTestAllInOneFile] : 'Sign Out' is not present on page
+2024-08-09 14:45:17   INFO [loginTests.LoginTestAllInOneFile] : Browser was closed
+2024-08-09 14:45:17   INFO [loginTests.LoginTestAllInOneFile] : Test finished
+2024-08-09 14:45:17   INFO [loginTests.LoginTestAllInOneFile] : ------------
+2024-13-11 12:29:09   INFO [loginTests.LoginTestAllInOneFile] : Test started
+2024-13-11 12:29:20   INFO [loginTests.LoginTestAllInOneFile] : Browser was opened
+2024-13-11 12:29:23   INFO [loginTests.LoginTestAllInOneFile] : Site was opened
+2024-13-11 12:29:23   INFO [loginTests.LoginTestAllInOneFile] : qaauto was inputted into input Login
+2024-13-11 12:29:23   INFO [loginTests.LoginTestAllInOneFile] : Password was inputted into input Password
+2024-13-11 12:29:27   INFO [loginTests.LoginTestAllInOneFile] : Button Sign In Was clicked
+2024-13-11 12:29:27   INFO [loginTests.LoginTestAllInOneFile] : true is element 'Sign Out' displayed
+2024-13-11 12:29:28   INFO [loginTests.LoginTestAllInOneFile] : Browser was closed
+2024-13-11 12:29:28   INFO [loginTests.LoginTestAllInOneFile] : Test finished
+2024-13-11 12:29:28   INFO [loginTests.LoginTestAllInOneFile] : ------------
+2024-13-11 12:29:28   INFO [loginTests.LoginTestAllInOneFile] : Test started
+2024-13-11 12:29:29   INFO [loginTests.LoginTestAllInOneFile] : Browser was opened
+2024-13-11 12:29:31   INFO [loginTests.LoginTestAllInOneFile] : Site was opened
+2024-13-11 12:29:31   INFO [loginTests.LoginTestAllInOneFile] : 1qaauto was inputted into input Login
+2024-13-11 12:29:31   INFO [loginTests.LoginTestAllInOneFile] : Password was inputted into input Password
+2024-13-11 12:29:37   INFO [loginTests.LoginTestAllInOneFile] : Button Sign In Was clicked
+2024-13-11 12:29:37   INFO [loginTests.LoginTestAllInOneFile] : true Button Sign In is displayed
+2024-13-11 12:29:37   INFO [loginTests.LoginTestAllInOneFile] : trueAlert 'Invalid username/password.' is element displayed
+2024-13-11 12:29:42   INFO [loginTests.LoginTestAllInOneFile] : 'Sign Out' is not present on page
+2024-13-11 12:29:43   INFO [loginTests.LoginTestAllInOneFile] : Browser was closed
+2024-13-11 12:29:43   INFO [loginTests.LoginTestAllInOneFile] : Test finished
+2024-13-11 12:29:43   INFO [loginTests.LoginTestAllInOneFile] : ------------
+2024-15-11 19:53:22   INFO [loginTests.LoginTestAllInOneFile] : Test started
+2024-15-11 19:53:30   INFO [loginTests.LoginTestAllInOneFile] : Browser was opened
+2024-15-11 19:53:34   INFO [loginTests.LoginTestAllInOneFile] : Site was opened
+2024-15-11 19:53:34   INFO [loginTests.LoginTestAllInOneFile] : qaauto was inputted into input Login
+2024-15-11 19:53:34   INFO [loginTests.LoginTestAllInOneFile] : Password was inputted into input Password
+2024-15-11 19:53:38   INFO [loginTests.LoginTestAllInOneFile] : Button Sign In Was clicked
+2024-15-11 19:53:38   INFO [loginTests.LoginTestAllInOneFile] : true is element 'Sign Out' displayed
+2024-15-11 19:53:38   INFO [loginTests.LoginTestAllInOneFile] : Browser was closed
+2024-15-11 19:53:38   INFO [loginTests.LoginTestAllInOneFile] : Test finished
+2024-15-11 19:53:38   INFO [loginTests.LoginTestAllInOneFile] : ------------
+2024-15-11 19:53:38   INFO [loginTests.LoginTestAllInOneFile] : Test started
+2024-15-11 19:53:40   INFO [loginTests.LoginTestAllInOneFile] : Browser was opened
+2024-15-11 19:53:42   INFO [loginTests.LoginTestAllInOneFile] : Site was opened
+2024-15-11 19:53:42   INFO [loginTests.LoginTestAllInOneFile] : 1qaauto was inputted into input Login
+2024-15-11 19:53:42   INFO [loginTests.LoginTestAllInOneFile] : Password was inputted into input Password
+2024-15-11 19:53:45   INFO [loginTests.LoginTestAllInOneFile] : Button Sign In Was clicked
+2024-15-11 19:53:45   INFO [loginTests.LoginTestAllInOneFile] : true Button Sign In is displayed
+2024-15-11 19:53:45   INFO [loginTests.LoginTestAllInOneFile] : trueAlert 'Invalid username/password.' is element displayed
+2024-15-11 19:53:50   INFO [loginTests.LoginTestAllInOneFile] : 'Sign Out' is not present on page
+2024-15-11 19:53:50   INFO [loginTests.LoginTestAllInOneFile] : Browser was closed
+2024-15-11 19:53:50   INFO [loginTests.LoginTestAllInOneFile] : Test finished
+2024-15-11 19:53:50   INFO [loginTests.LoginTestAllInOneFile] : ------------
+2024-29-11 12:12:18   INFO [loginTests.LoginTestAllInOneFile] : Test started
+2024-29-11 12:12:29   INFO [loginTests.LoginTestAllInOneFile] : Browser was opened
+2024-29-11 12:12:32   INFO [loginTests.LoginTestAllInOneFile] : Site was opened
+2024-29-11 12:12:32   INFO [loginTests.LoginTestAllInOneFile] : qaauto was inputted into input Login
+2024-29-11 12:12:32   INFO [loginTests.LoginTestAllInOneFile] : Password was inputted into input Password
+2024-29-11 12:12:48   INFO [loginTests.LoginTestAllInOneFile] : Button Sign In Was clicked
+2024-29-11 12:12:53   INFO [loginTests.LoginTestAllInOneFile] : 'Sign Out' is not present on page
+2024-29-11 12:12:53   INFO [loginTests.LoginTestAllInOneFile] : Browser was closed
+2024-29-11 12:12:53   INFO [loginTests.LoginTestAllInOneFile] : Test finished
+2024-29-11 12:12:53   INFO [loginTests.LoginTestAllInOneFile] : ------------
+2024-29-11 12:12:53   INFO [loginTests.LoginTestAllInOneFile] : Test started
+2024-29-11 12:12:54   INFO [loginTests.LoginTestAllInOneFile] : Browser was opened
+2024-29-11 12:12:56   INFO [loginTests.LoginTestAllInOneFile] : Site was opened
+2024-29-11 12:12:56   INFO [loginTests.LoginTestAllInOneFile] : 1qaauto was inputted into input Login
+2024-29-11 12:12:57   INFO [loginTests.LoginTestAllInOneFile] : Password was inputted into input Password
+2024-29-11 12:13:12   INFO [loginTests.LoginTestAllInOneFile] : Button Sign In Was clicked
+2024-29-11 12:13:17   INFO [loginTests.LoginTestAllInOneFile] : Element Button Sign In is not present on page
+2024-29-11 12:13:18   INFO [loginTests.LoginTestAllInOneFile] : Browser was closed
+2024-29-11 12:13:18   INFO [loginTests.LoginTestAllInOneFile] : Test finished
+2024-29-11 12:13:18   INFO [loginTests.LoginTestAllInOneFile] : ------------
+2024-29-11 12:16:40   INFO [loginTests.LoginTestAllInOneFile] : Test started
+2024-29-11 12:16:43   INFO [loginTests.LoginTestAllInOneFile] : Browser was opened
+2024-29-11 12:16:45   INFO [loginTests.LoginTestAllInOneFile] : Site was opened
+2024-29-11 12:16:45   INFO [loginTests.LoginTestAllInOneFile] : qaauto was inputted into input Login
+2024-29-11 12:16:45   INFO [loginTests.LoginTestAllInOneFile] : Password was inputted into input Password
+2024-29-11 12:17:01   INFO [loginTests.LoginTestAllInOneFile] : Button Sign In Was clicked
+2024-29-11 12:17:06   INFO [loginTests.LoginTestAllInOneFile] : 'Sign Out' is not present on page
+2024-29-11 12:17:06   INFO [loginTests.LoginTestAllInOneFile] : Browser was closed
+2024-29-11 12:17:06   INFO [loginTests.LoginTestAllInOneFile] : Test finished
+2024-29-11 12:17:06   INFO [loginTests.LoginTestAllInOneFile] : ------------
+2024-29-11 12:17:06   INFO [loginTests.LoginTestAllInOneFile] : Test started
+2024-29-11 12:17:08   INFO [loginTests.LoginTestAllInOneFile] : Browser was opened
+2024-29-11 12:17:09   INFO [loginTests.LoginTestAllInOneFile] : Site was opened
+2024-29-11 12:17:10   INFO [loginTests.LoginTestAllInOneFile] : 1qaauto was inputted into input Login
+2024-29-11 12:17:10   INFO [loginTests.LoginTestAllInOneFile] : Password was inputted into input Password
+2024-29-11 12:17:15   INFO [loginTests.LoginTestAllInOneFile] : Button Sign In Was clicked
+2024-29-11 12:17:15   INFO [loginTests.LoginTestAllInOneFile] : true Button Sign In is displayed
+2024-29-11 12:17:15   INFO [loginTests.LoginTestAllInOneFile] : trueAlert 'Invalid username/password.' is element displayed
+2024-29-11 12:17:20   INFO [loginTests.LoginTestAllInOneFile] : 'Sign Out' is not present on page
+2024-29-11 12:17:21   INFO [loginTests.LoginTestAllInOneFile] : Browser was closed
+2024-29-11 12:17:21   INFO [loginTests.LoginTestAllInOneFile] : Test finished
+2024-29-11 12:17:21   INFO [loginTests.LoginTestAllInOneFile] : ------------
+2024-29-11 12:18:19   INFO [loginTests.LoginTestAllInOneFile] : Test started
+2024-29-11 12:18:22   INFO [loginTests.LoginTestAllInOneFile] : Browser was opened
+2024-29-11 12:18:24   INFO [loginTests.LoginTestAllInOneFile] : Site was opened
+2024-29-11 12:18:24   INFO [loginTests.LoginTestAllInOneFile] : qaauto was inputted into input Login
+2024-29-11 12:18:24   INFO [loginTests.LoginTestAllInOneFile] : Password was inputted into input Password
+2024-29-11 12:18:28   INFO [loginTests.LoginTestAllInOneFile] : Button Sign In Was clicked
+2024-29-11 12:18:28   INFO [loginTests.LoginTestAllInOneFile] : true is element 'Sign Out' displayed
+2024-29-11 12:18:29   INFO [loginTests.LoginTestAllInOneFile] : Browser was closed
+2024-29-11 12:18:29   INFO [loginTests.LoginTestAllInOneFile] : Test finished
+2024-29-11 12:18:29   INFO [loginTests.LoginTestAllInOneFile] : ------------
+2024-29-11 12:25:59   INFO [loginTests.LoginTestAllInOneFile] : Test started
+2024-29-11 12:26:02   INFO [loginTests.LoginTestAllInOneFile] : Browser was opened
+2024-29-11 12:26:04   INFO [loginTests.LoginTestAllInOneFile] : Site was opened
+2024-29-11 12:26:04   INFO [loginTests.LoginTestAllInOneFile] : qaauto was inputted into input Login
+2024-29-11 12:26:04   INFO [loginTests.LoginTestAllInOneFile] : Password was inputted into input Password
+2024-29-11 12:26:08   INFO [loginTests.LoginTestAllInOneFile] : Button Sign In Was clicked
+2024-29-11 12:26:08   INFO [loginTests.LoginTestAllInOneFile] : true is element 'Sign Out' displayed
+2024-29-11 12:26:08   INFO [loginTests.LoginTestAllInOneFile] : Browser was closed
+2024-29-11 12:26:08   INFO [loginTests.LoginTestAllInOneFile] : Test finished
+2024-29-11 12:26:08   INFO [loginTests.LoginTestAllInOneFile] : ------------
+2024-29-11 12:28:01   INFO [loginTests.LoginTestAllInOneFile] : Test started
+2024-29-11 12:28:03   INFO [loginTests.LoginTestAllInOneFile] : Browser was opened
+2024-29-11 12:28:06   INFO [loginTests.LoginTestAllInOneFile] : Site was opened
+2024-29-11 12:28:06   INFO [loginTests.LoginTestAllInOneFile] : qaauto was inputted into input Login
+2024-29-11 12:28:06   INFO [loginTests.LoginTestAllInOneFile] : Password was inputted into input Password
+2024-29-11 12:28:09   INFO [loginTests.LoginTestAllInOneFile] : Button Sign In Was clicked
+2024-29-11 12:28:09   INFO [loginTests.LoginTestAllInOneFile] : true is element 'Sign Out' displayed
+2024-29-11 12:28:10   INFO [loginTests.LoginTestAllInOneFile] : Browser was closed
+2024-29-11 12:28:10   INFO [loginTests.LoginTestAllInOneFile] : Test finished
+2024-29-11 12:28:10   INFO [loginTests.LoginTestAllInOneFile] : ------------
+2024-29-11 12:28:10   INFO [loginTests.LoginTestAllInOneFile] : Test started
+2024-29-11 12:28:12   INFO [loginTests.LoginTestAllInOneFile] : Browser was opened
+2024-29-11 12:28:14   INFO [loginTests.LoginTestAllInOneFile] : Site was opened
+2024-29-11 12:28:14   INFO [loginTests.LoginTestAllInOneFile] : 1qaauto was inputted into input Login
+2024-29-11 12:28:14   INFO [loginTests.LoginTestAllInOneFile] : Password was inputted into input Password
+2024-29-11 12:28:16   INFO [loginTests.LoginTestAllInOneFile] : Button Sign In Was clicked
+2024-29-11 12:28:16   INFO [loginTests.LoginTestAllInOneFile] : true Button Sign In is displayed
+2024-29-11 12:28:16   INFO [loginTests.LoginTestAllInOneFile] : trueAlert 'Invalid username/password.' is element displayed
+2024-29-11 12:28:21   INFO [loginTests.LoginTestAllInOneFile] : 'Sign Out' is not present on page
+2024-29-11 12:28:22   INFO [loginTests.LoginTestAllInOneFile] : Browser was closed
+2024-29-11 12:28:22   INFO [loginTests.LoginTestAllInOneFile] : Test finished
+2024-29-11 12:28:22   INFO [loginTests.LoginTestAllInOneFile] : ------------
+2024-15-12 14:45:50   INFO [loginTests.LoginTestAllInOneFile] : Test started
+2024-15-12 14:45:58   INFO [loginTests.LoginTestAllInOneFile] : Browser was opened
+2024-15-12 14:46:00   INFO [loginTests.LoginTestAllInOneFile] : Site was opened
+2024-15-12 14:46:00   INFO [loginTests.LoginTestAllInOneFile] : qaauto was inputted into input Login
+2024-15-12 14:46:00   INFO [loginTests.LoginTestAllInOneFile] : Password was inputted into input Password
+2024-15-12 14:46:03   INFO [loginTests.LoginTestAllInOneFile] : Button Sign In Was clicked
+2024-15-12 14:46:03   INFO [loginTests.LoginTestAllInOneFile] : true is element 'Sign Out' displayed
+2024-15-12 14:46:04   INFO [loginTests.LoginTestAllInOneFile] : Browser was closed
+2024-15-12 14:46:04   INFO [loginTests.LoginTestAllInOneFile] : Test finished
+2024-15-12 14:46:04   INFO [loginTests.LoginTestAllInOneFile] : ------------
+2024-15-12 14:46:04   INFO [loginTests.LoginTestAllInOneFile] : Test started
+2024-15-12 14:46:06   INFO [loginTests.LoginTestAllInOneFile] : Browser was opened
+2024-15-12 14:46:08   INFO [loginTests.LoginTestAllInOneFile] : Site was opened
+2024-15-12 14:46:08   INFO [loginTests.LoginTestAllInOneFile] : 1qaauto was inputted into input Login
+2024-15-12 14:46:08   INFO [loginTests.LoginTestAllInOneFile] : Password was inputted into input Password
+2024-15-12 14:46:11   INFO [loginTests.LoginTestAllInOneFile] : Button Sign In Was clicked
+2024-15-12 14:46:11   INFO [loginTests.LoginTestAllInOneFile] : true Button Sign In is displayed
+2024-15-12 14:46:11   INFO [loginTests.LoginTestAllInOneFile] : trueAlert 'Invalid username/password.' is element displayed
+2024-15-12 14:46:16   INFO [loginTests.LoginTestAllInOneFile] : 'Sign Out' is not present on page
+2024-15-12 14:46:17   INFO [loginTests.LoginTestAllInOneFile] : Browser was closed
+2024-15-12 14:46:17   INFO [loginTests.LoginTestAllInOneFile] : Test finished
+2024-15-12 14:46:17   INFO [loginTests.LoginTestAllInOneFile] : ------------
+2024-17-12 18:18:53   INFO [loginTests.LoginTestWithPageObject] : Test started
+2024-17-12 18:19:00   INFO [loginTests.LoginTestWithPageObject] : Browser was opened
+2024-17-12 18:19:04   INFO [pages.LoginPage] : Login page was openned
+2024-17-12 18:19:04   INFO [loginTests.LoginTestWithPageObject] : Browser was closed
+2024-17-12 18:19:04   INFO [loginTests.LoginTestWithPageObject] : Test finished
+2024-17-12 18:19:04   INFO [loginTests.LoginTestWithPageObject] : ------------
+2025-05-01 00:14:54   INFO [loginTests.LoginTestWithPageObject] : Test started
+2025-05-01 00:15:03   INFO [loginTests.LoginTestWithPageObject] : Browser was opened
+2025-05-01 00:15:06   INFO [pages.LoginPage] : Login page was openned
+2025-05-01 00:15:06   INFO [pages.LoginPage] : qaauto was inputted into input Login
+2025-05-01 00:15:06   INFO [pages.LoginPage] : 123456qwerty was inputted into input Password
+2025-05-01 00:15:09   INFO [pages.LoginPage] : Button was clicked
+2025-05-01 00:15:09   INFO [pages.HomePage] : true is element 'Sign Out' displayed
+2025-05-01 00:15:09   INFO [loginTests.LoginTestWithPageObject] : Browser was closed
+2025-05-01 00:15:09   INFO [loginTests.LoginTestWithPageObject] : Test finished
+2025-05-01 00:15:09   INFO [loginTests.LoginTestWithPageObject] : ------------
+2025-06-01 13:09:35   INFO [loginTests.LoginTestWithPageObject] : Test started
+2025-06-01 13:09:39   INFO [loginTests.LoginTestWithPageObject] : Browser was opened
+2025-06-01 13:09:43   INFO [pages.LoginPage] : Login page was openned
+2025-06-01 13:09:44   INFO [pages.LoginPage] : qaauto was inputted into input Login
+2025-06-01 13:09:44   INFO [pages.LoginPage] : 123456qwerty was inputted into input Password
+2025-06-01 13:09:48   INFO [pages.LoginPage] : Button was clicked
+2025-06-01 13:09:48   INFO [pages.HomePage] : true is element 'Sign Out' displayed
+2025-06-01 13:09:49   INFO [loginTests.LoginTestWithPageObject] : Browser was closed
+2025-06-01 13:09:49   INFO [loginTests.LoginTestWithPageObject] : Test finished
+2025-06-01 13:09:49   INFO [loginTests.LoginTestWithPageObject] : ------------
+2025-06-01 14:38:27   INFO [loginTests.LoginTestWithPageObject] : Test started
+2025-06-01 14:38:30   INFO [loginTests.LoginTestWithPageObject] : Browser was opened
+2025-06-01 14:38:33   INFO [pages.LoginPage] : Login page was openned
+2025-06-01 14:38:33   INFO [pages.LoginPage] : qaauto was inputted into input Login
+2025-06-01 14:38:33   INFO [pages.LoginPage] : 123456qwerty was inputted into input Password
+2025-06-01 14:38:33   INFO [pages.LoginPage] : Button was clicked
+2025-06-01 14:38:39   INFO [pages.HomePage] : 'Sign Out' is not present on page
+2025-06-01 14:38:39   INFO [loginTests.LoginTestWithPageObject] : Browser was closed
+2025-06-01 14:38:39   INFO [loginTests.LoginTestWithPageObject] : Test finished
+2025-06-01 14:38:39   INFO [loginTests.LoginTestWithPageObject] : ------------
+2025-06-01 14:40:18   INFO [loginTests.LoginTestWithPageObject] : Test started
+2025-06-01 14:40:21   INFO [loginTests.LoginTestWithPageObject] : Browser was opened
+2025-06-01 14:40:24   INFO [pages.LoginPage] : Login page was openned
+2025-06-01 14:40:24   INFO [pages.LoginPage] : qaauto was inputted into input Login
+2025-06-01 14:40:24   INFO [pages.LoginPage] : 123456qwerty was inputted into input Password
+2025-06-01 14:40:39   INFO [pages.LoginPage] : Button was clicked
+2025-06-01 14:40:44   INFO [pages.HomePage] : 'Sign Out' is not present on page
+2025-06-01 14:40:45   INFO [loginTests.LoginTestWithPageObject] : Browser was closed
+2025-06-01 14:40:45   INFO [loginTests.LoginTestWithPageObject] : Test finished
+2025-06-01 14:40:45   INFO [loginTests.LoginTestWithPageObject] : ------------
+2025-06-01 14:42:40   INFO [loginTests.LoginTestWithPageObject] : Test started
+2025-06-01 14:42:42   INFO [loginTests.LoginTestWithPageObject] : Browser was opened
+2025-06-01 14:42:44   INFO [pages.LoginPage] : Login page was openned
+2025-06-01 14:42:44   INFO [pages.LoginPage] : qaauto was inputted into input Login
+2025-06-01 14:42:44   INFO [pages.LoginPage] : 123456qwerty was inputted into input Password
+2025-06-01 14:42:49   INFO [pages.LoginPage] : Button 'Sign In' was clicked
+2025-06-01 14:42:49   INFO [pages.HomePage] : true is element 'Sign Out' displayed
+2025-06-01 14:42:49   INFO [loginTests.LoginTestWithPageObject] : Browser was closed
+2025-06-01 14:42:49   INFO [loginTests.LoginTestWithPageObject] : Test finished
+2025-06-01 14:42:49   INFO [loginTests.LoginTestWithPageObject] : ------------
+2025-06-01 14:44:48   INFO [loginTests.LoginTestWithPageObject] : Test started
+2025-06-01 14:44:51   INFO [loginTests.LoginTestWithPageObject] : Browser was opened
+2025-06-01 14:44:53   INFO [pages.LoginPage] : Login page was openned
+2025-06-01 14:44:53   INFO [pages.LoginPage] : Login qaauto was inputted into input Login
+2025-06-01 14:44:53   INFO [pages.LoginPage] : Password 123456qwerty was inputted into input Password
+2025-06-01 14:44:57   INFO [pages.LoginPage] : Button 'Sign In' was clicked
+2025-06-01 14:44:57   INFO [pages.HomePage] : true is element 'Sign Out' displayed
+2025-06-01 14:44:58   INFO [loginTests.LoginTestWithPageObject] : Browser was closed
+2025-06-01 14:44:58   INFO [loginTests.LoginTestWithPageObject] : Test finished
+2025-06-01 14:44:58   INFO [loginTests.LoginTestWithPageObject] : ------------
+2025-06-01 14:45:42   INFO [loginTests.LoginTestWithPageObject] : Test started
+2025-06-01 14:45:45   INFO [loginTests.LoginTestWithPageObject] : Browser was opened
+2025-06-01 14:45:47   INFO [pages.LoginPage] : Login page was openned
+2025-06-01 14:45:47   INFO [pages.LoginPage] : Login: qaauto was inputted into input Login
+2025-06-01 14:45:47   INFO [pages.LoginPage] : Password: 123456qwerty was inputted into input Password
+2025-06-01 14:45:55   INFO [pages.LoginPage] : Button: 'Sign In' was clicked
+2025-06-01 14:45:55   INFO [pages.HomePage] : true is element 'Sign Out' displayed
+2025-06-01 14:45:56   INFO [loginTests.LoginTestWithPageObject] : Browser was closed
+2025-06-01 14:45:56   INFO [loginTests.LoginTestWithPageObject] : Test finished
+2025-06-01 14:45:56   INFO [loginTests.LoginTestWithPageObject] : ------------
+2025-06-01 14:47:23   INFO [loginTests.LoginTestWithPageObject] : Test started
+2025-06-01 14:47:26   INFO [loginTests.LoginTestWithPageObject] : Browser was opened
+2025-06-01 14:47:28   INFO [pages.LoginPage] : Login page was openned
+2025-06-01 14:47:28   INFO [pages.LoginPage] : Login: qaauto was inputted into input Login
+2025-06-01 14:47:28   INFO [pages.LoginPage] : Password:  '123456qwerty'  was inputted into input Password
+2025-06-01 14:47:43   INFO [pages.LoginPage] : Button: 'Sign In' was clicked
+2025-06-01 14:47:48   INFO [pages.HomePage] : 'Sign Out' is not present on page
+2025-06-01 14:47:49   INFO [loginTests.LoginTestWithPageObject] : Browser was closed
+2025-06-01 14:47:49   INFO [loginTests.LoginTestWithPageObject] : Test finished
+2025-06-01 14:47:49   INFO [loginTests.LoginTestWithPageObject] : ------------
+2025-06-01 14:49:01   INFO [loginTests.LoginTestWithPageObject] : Test started
+2025-06-01 14:49:04   INFO [loginTests.LoginTestWithPageObject] : Browser was opened
+2025-06-01 14:49:05   INFO [pages.LoginPage] : Login page was openned
+2025-06-01 14:49:06   INFO [pages.LoginPage] : Login:  'qaauto'  was inputted into input Login
+2025-06-01 14:49:06   INFO [pages.LoginPage] : Password:  '123456qwerty'  was inputted into input Password
+2025-06-01 14:49:09   INFO [pages.LoginPage] : Button: 'Sign In' was clicked
+2025-06-01 14:49:09   INFO [pages.HomePage] : true is element 'Sign Out' displayed
+2025-06-01 14:49:10   INFO [loginTests.LoginTestWithPageObject] : Browser was closed
+2025-06-01 14:49:10   INFO [loginTests.LoginTestWithPageObject] : Test finished
+2025-06-01 14:49:10   INFO [loginTests.LoginTestWithPageObject] : ------------
+2025-06-01 17:17:30   INFO [loginTests.LoginTestWithPageObject] : Test started
+2025-06-01 17:17:33   INFO [loginTests.LoginTestWithPageObject] : Browser was opened
+2025-06-01 17:17:37   INFO [pages.LoginPage] : Login page was openned
+2025-06-01 17:17:37   INFO [pages.LoginPage] :  'qaauto'  was inputed into element 
+2025-06-01 17:17:37   INFO [pages.LoginPage] :  '123456qwerty'  was inputed into element 
+2025-06-01 17:17:59   INFO [pages.LoginPage] : Proxy element for: DefaultElementLocator 'By.xpath: //button[text()='Sign In']' was clicked
+2025-06-01 17:18:04   INFO [pages.HomePage] : Element is not displayed
+2025-06-01 17:18:05   INFO [loginTests.LoginTestWithPageObject] : Browser was closed
+2025-06-01 17:18:05   INFO [loginTests.LoginTestWithPageObject] : Test finished
+2025-06-01 17:18:05   INFO [loginTests.LoginTestWithPageObject] : ------------
+2025-06-01 17:21:04   INFO [loginTests.LoginTestWithPageObject] : Test started
+2025-06-01 17:21:07   INFO [loginTests.LoginTestWithPageObject] : Browser was opened
+2025-06-01 17:21:09   INFO [pages.LoginPage] : Login page was openned
+2025-06-01 17:21:09   INFO [pages.LoginPage] :  'qaauto'  was inputed into element 
+2025-06-01 17:21:09   INFO [pages.LoginPage] :  '123456qwerty'  was inputed into element 
+2025-06-01 17:21:19   INFO [pages.LoginPage] : Proxy element for: DefaultElementLocator 'By.xpath: //button[text()='Sign In']' was clicked
+2025-06-01 17:21:19   INFO [pages.HomePage] : Element is displayed
+2025-06-01 17:21:20   INFO [loginTests.LoginTestWithPageObject] : Browser was closed
+2025-06-01 17:21:20   INFO [loginTests.LoginTestWithPageObject] : Test finished
+2025-06-01 17:21:20   INFO [loginTests.LoginTestWithPageObject] : ------------
+2025-07-01 10:08:27   INFO [loginTests.LoginTestWithPageObject] : Test started
+2025-07-01 10:08:31   INFO [loginTests.LoginTestWithPageObject] : Browser was opened
+2025-07-01 10:08:34   INFO [pages.LoginPage] : Login page was openned
+2025-07-01 10:08:34   INFO [pages.LoginPage] :  '1qaauto'  was inputed into element 
+2025-07-01 10:08:34   INFO [pages.LoginPage] :  '123456qwerty'  was inputed into element 
+2025-07-01 10:08:37   INFO [pages.LoginPage] : [[ChromeDriver: chrome on WINDOWS (2d941f136aff3759d77ae57c97071edc)] -> xpath: //button[text()='Sign In']] was clicked
+2025-07-01 10:08:37   INFO [pages.LoginPage] : Element [[ChromeDriver: chrome on WINDOWS (2d941f136aff3759d77ae57c97071edc)] -> xpath: //div[text()='Invalid username/password.']] is displayed
+2025-07-01 10:08:38   INFO [loginTests.LoginTestWithPageObject] : Browser was closed
+2025-07-01 10:08:38   INFO [loginTests.LoginTestWithPageObject] : Test finished
+2025-07-01 10:08:38   INFO [loginTests.LoginTestWithPageObject] : ------------
+2025-07-01 10:09:30   INFO [loginTests.LoginTestWithPageObject] : Test started
+2025-07-01 10:09:32   INFO [loginTests.LoginTestWithPageObject] : Browser was opened
+2025-07-01 10:09:34   INFO [pages.LoginPage] : Login page was openned
+2025-07-01 10:09:34   INFO [pages.LoginPage] :  'qaauto'  was inputed into element 
+2025-07-01 10:09:34   INFO [pages.LoginPage] :  '123456qwerty'  was inputed into element 
+2025-07-01 10:09:44   INFO [pages.LoginPage] : Proxy element for: DefaultElementLocator 'By.xpath: //button[text()='Sign In']' was clicked
+2025-07-01 10:09:54   INFO [pages.LoginPage] : Element Proxy element for: DefaultElementLocator 'By.xpath: //div[text()='Invalid username/password.']' is not displayed
+2025-07-01 10:09:54   INFO [loginTests.LoginTestWithPageObject] : Browser was closed
+2025-07-01 10:09:54   INFO [loginTests.LoginTestWithPageObject] : Test finished
+2025-07-01 10:09:54   INFO [loginTests.LoginTestWithPageObject] : ------------
+2025-07-01 10:24:18   INFO [loginTests.LoginTestWithPageObject] : Test started
+2025-07-01 10:24:20   INFO [loginTests.LoginTestWithPageObject] : Browser was opened
+2025-07-01 10:24:21   INFO [pages.LoginPage] : Login page was openned
+2025-07-01 10:24:23   INFO [pages.LoginPage] :  '!qaauto'  was inputed into element 
+2025-07-01 10:24:23   INFO [pages.LoginPage] :  '123456qwerty'  was inputed into element 
+2025-07-01 10:24:47   INFO [pages.LoginPage] : Proxy element for: DefaultElementLocator 'By.xpath: //button[text()='Sign In']' was clicked
+2025-07-01 10:24:57   INFO [pages.LoginPage] : Element Proxy element for: DefaultElementLocator 'By.xpath: //div[text()='Invalid username/password.']' is not displayed
+2025-07-01 10:24:58   INFO [loginTests.LoginTestWithPageObject] : Browser was closed
+2025-07-01 10:24:58   INFO [loginTests.LoginTestWithPageObject] : Test finished
+2025-07-01 10:24:58   INFO [loginTests.LoginTestWithPageObject] : ------------
+2025-07-01 10:25:59   INFO [loginTests.LoginTestWithPageObject] : Test started
+2025-07-01 10:26:02   INFO [loginTests.LoginTestWithPageObject] : Browser was opened
+2025-07-01 10:26:04   INFO [pages.LoginPage] : Login page was openned
+2025-07-01 10:26:04   INFO [pages.LoginPage] :  '!qaauto'  was inputed into element 
+2025-07-01 10:26:04   INFO [pages.LoginPage] :  '123456qwerty'  was inputed into element 
+2025-07-01 10:26:24   INFO [pages.LoginPage] : Proxy element for: DefaultElementLocator 'By.xpath: //button[text()='Sign In']' was clicked
+2025-07-01 10:26:34   INFO [pages.LoginPage] : Element Proxy element for: DefaultElementLocator 'By.xpath: //div[text()='Invalid username/password.']' is not displayed
+2025-07-01 10:26:35   INFO [loginTests.LoginTestWithPageObject] : Browser was closed
+2025-07-01 10:26:35   INFO [loginTests.LoginTestWithPageObject] : Test finished
+2025-07-01 10:26:35   INFO [loginTests.LoginTestWithPageObject] : ------------
+2025-07-01 10:28:46   INFO [loginTests.LoginTestWithPageObject] : Test started
+2025-07-01 10:28:48   INFO [loginTests.LoginTestWithPageObject] : Browser was opened
+2025-07-01 10:28:50   INFO [pages.LoginPage] : Login page was openned
+2025-07-01 10:28:50   INFO [pages.LoginPage] :  '!qaauto'  was inputed into element 
+2025-07-01 10:28:50   INFO [pages.LoginPage] :  '123456qwerty'  was inputed into element 
+2025-07-01 10:29:15   INFO [pages.LoginPage] : Proxy element for: DefaultElementLocator 'By.xpath: //button[text()='Sign In']' was clicked
+2025-07-01 10:29:25   INFO [loginTests.LoginTestWithPageObject] : Browser was closed
+2025-07-01 10:29:25   INFO [loginTests.LoginTestWithPageObject] : Test finished
+2025-07-01 10:29:25   INFO [loginTests.LoginTestWithPageObject] : ------------
+2025-07-01 10:57:50   INFO [loginTests.LoginTestWithPageObject] : Test started
+2025-07-01 10:57:52   INFO [loginTests.LoginTestWithPageObject] : Browser was opened
+2025-07-01 10:57:55   INFO [pages.LoginPage] : Login page was openned
+2025-07-01 10:57:55   INFO [pages.LoginPage] :  '!qaauto'  was inputed into element 
+2025-07-01 10:57:56   INFO [pages.LoginPage] :  '123456qwerty'  was inputed into element 
+2025-07-01 10:58:00   INFO [pages.LoginPage] : [[ChromeDriver: chrome on WINDOWS (ee842a4febec63735abb9e2848fa77f3)] -> xpath: //button[text()='Sign In']] was clicked
+2025-07-01 10:58:00   INFO [pages.LoginPage] : Element [[ChromeDriver: chrome on WINDOWS (ee842a4febec63735abb9e2848fa77f3)] -> xpath: //div[text()='Invalid username/password.']] is displayed
+2025-07-01 10:58:01   INFO [loginTests.LoginTestWithPageObject] : Browser was closed
+2025-07-01 10:58:01   INFO [loginTests.LoginTestWithPageObject] : Test finished
+2025-07-01 10:58:01   INFO [loginTests.LoginTestWithPageObject] : ------------
+2025-07-01 11:01:05   INFO [loginTests.LoginTestWithPageObject] : Test started
+2025-07-01 11:01:08   INFO [loginTests.LoginTestWithPageObject] : Browser was opened
+2025-07-01 11:01:10   INFO [pages.LoginPage] : Login page was openned
+2025-07-01 11:01:10   INFO [pages.LoginPage] :  '!qaauto'  was inputed into element 
+2025-07-01 11:01:11   INFO [pages.LoginPage] :  '123456qwerty'  was inputed into element 
+2025-07-01 11:01:14   INFO [pages.LoginPage] : webElement was clicked
+2025-07-01 11:01:14   INFO [pages.LoginPage] : Element [[ChromeDriver: chrome on WINDOWS (55e6c50a58f88dc39595ebb7aefcff83)] -> xpath: //div[text()='Invalid username/password.']] is displayed
+2025-07-01 11:01:15   INFO [loginTests.LoginTestWithPageObject] : Browser was closed
+2025-07-01 11:01:15   INFO [loginTests.LoginTestWithPageObject] : Test finished
+2025-07-01 11:01:15   INFO [loginTests.LoginTestWithPageObject] : ------------
+2025-07-01 11:01:56   INFO [loginTests.LoginTestWithPageObject] : Test started
+2025-07-01 11:01:58   INFO [loginTests.LoginTestWithPageObject] : Browser was opened
+2025-07-01 11:02:00   INFO [pages.LoginPage] : Login page was openned
+2025-07-01 11:02:00   INFO [pages.LoginPage] :  '!qaauto'  was inputed into element 
+2025-07-01 11:02:00   INFO [pages.LoginPage] :  '123456qwerty'  was inputed into element 
+2025-07-01 11:02:09   INFO [pages.LoginPage] : [[ChromeDriver: chrome on WINDOWS (130075fc1515cbc167405e6c5132c68b)] -> xpath: //button[text()='Sign In']] was clicked
+2025-07-01 11:02:09   INFO [pages.LoginPage] : Element [[ChromeDriver: chrome on WINDOWS (130075fc1515cbc167405e6c5132c68b)] -> xpath: //div[text()='Invalid username/password.']] is displayed
+2025-07-01 11:02:10   INFO [loginTests.LoginTestWithPageObject] : Browser was closed
+2025-07-01 11:02:10   INFO [loginTests.LoginTestWithPageObject] : Test finished
+2025-07-01 11:02:10   INFO [loginTests.LoginTestWithPageObject] : ------------
+2025-07-01 11:02:32   INFO [loginTests.LoginTestWithPageObject] : Test started
+2025-07-01 11:02:35   INFO [loginTests.LoginTestWithPageObject] : Browser was opened
+2025-07-01 11:02:37   INFO [pages.LoginPage] : Login page was openned
+2025-07-01 11:02:38   INFO [pages.LoginPage] :  'qaauto'  was inputed into element 
+2025-07-01 11:02:38   INFO [pages.LoginPage] :  '123456qwerty'  was inputed into element 
+2025-07-01 11:02:46   INFO [pages.LoginPage] : Proxy element for: DefaultElementLocator 'By.xpath: //button[text()='Sign In']' was clicked
+2025-07-01 11:02:56   INFO [pages.LoginPage] : Element Proxy element for: DefaultElementLocator 'By.xpath: //div[text()='Invalid username/password.']' is not displayed
+2025-07-01 11:02:57   INFO [loginTests.LoginTestWithPageObject] : Browser was closed
+2025-07-01 11:02:57   INFO [loginTests.LoginTestWithPageObject] : Test finished
+2025-07-01 11:02:57   INFO [loginTests.LoginTestWithPageObject] : ------------
+2025-07-01 11:05:19   INFO [loginTests.LoginTestWithPageObject] : Test started
+2025-07-01 11:05:21   INFO [loginTests.LoginTestWithPageObject] : Browser was opened
+2025-07-01 11:05:23   INFO [pages.LoginPage] : Login page was openned
+2025-07-01 11:05:23   INFO [pages.LoginPage] :  'qaauto'  was inputed into element 
+2025-07-01 11:05:24   INFO [pages.LoginPage] :  '123456qwerty'  was inputed into element 
+2025-07-01 11:05:32   INFO [pages.LoginPage] : Element Proxy element for: DefaultElementLocator 'By.xpath: //button[text()='Sign In']' was clicked
+2025-07-01 11:05:43   INFO [pages.LoginPage] : Element Proxy element for: DefaultElementLocator 'By.xpath: //div[text()='Invalid username/password.']' is not displayed
+2025-07-01 11:05:43   INFO [loginTests.LoginTestWithPageObject] : Browser was closed
+2025-07-01 11:05:43   INFO [loginTests.LoginTestWithPageObject] : Test finished
+2025-07-01 11:05:43   INFO [loginTests.LoginTestWithPageObject] : ------------
+2025-07-01 11:06:55   INFO [loginTests.LoginTestWithPageObject] : Test started
+2025-07-01 11:06:57   INFO [loginTests.LoginTestWithPageObject] : Browser was opened
+2025-07-01 11:06:59   INFO [pages.LoginPage] : Login page was openned
+2025-07-01 11:06:59   INFO [pages.LoginPage] :  'qaauto'  was inputed into element 
+2025-07-01 11:06:59   INFO [pages.LoginPage] :  '123456qwerty'  was inputed into element 
+2025-07-01 11:07:17   INFO [pages.LoginPage] : Element Proxy element for: DefaultElementLocator 'By.xpath: //button[text()='Sign In']' was clicked
+2025-07-01 11:07:17   INFO [pages.HomePage] : Element [[ChromeDriver: chrome on WINDOWS (5ae9e1dc45b7a4ffda683cc5a20e6709)] -> xpath: //button[text()='Sign Out']] is displayed
+2025-07-01 11:07:18   INFO [loginTests.LoginTestWithPageObject] : Browser was closed
+2025-07-01 11:07:18   INFO [loginTests.LoginTestWithPageObject] : Test finished
+2025-07-01 11:07:18   INFO [loginTests.LoginTestWithPageObject] : ------------
+2025-07-01 11:07:18   INFO [loginTests.LoginTestWithPageObject] : Test started
+2025-07-01 11:07:19   INFO [loginTests.LoginTestWithPageObject] : Browser was opened
+2025-07-01 11:07:21   INFO [pages.LoginPage] : Login page was openned
+2025-07-01 11:07:21   INFO [pages.LoginPage] :  'qaauto'  was inputed into element 
+2025-07-01 11:07:21   INFO [pages.LoginPage] :  '123456qwerty'  was inputed into element 
+2025-07-01 11:07:37   INFO [pages.LoginPage] : Element Proxy element for: DefaultElementLocator 'By.xpath: //button[text()='Sign In']' was clicked
+2025-07-01 11:07:47   INFO [pages.LoginPage] : Element Proxy element for: DefaultElementLocator 'By.xpath: //div[text()='Invalid username/password.']' is not displayed
+2025-07-01 11:07:48   INFO [loginTests.LoginTestWithPageObject] : Browser was closed
+2025-07-01 11:07:48   INFO [loginTests.LoginTestWithPageObject] : Test finished
+2025-07-01 11:07:48   INFO [loginTests.LoginTestWithPageObject] : ------------
+2025-12-01 19:52:12   INFO [loginTests.LoginTestWithPageObject] : Test started
+2025-12-01 19:52:23   INFO [loginTests.LoginTestWithPageObject] : Browser was opened
+2025-12-01 19:52:26   INFO [pages.LoginPage] : Login page was openned
+2025-12-01 19:52:26   INFO [pages.LoginPage] :  'qaauto'  was inputed into element 
+2025-12-01 19:52:26   INFO [pages.LoginPage] :  '123456qwerty'  was inputed into element 
+2025-12-01 19:52:35   INFO [pages.LoginPage] : Element Proxy element for: DefaultElementLocator 'By.xpath: //button[text()='Sign In']' was clicked
+2025-12-01 19:52:35   INFO [pages.HomePage] : Element [[ChromeDriver: chrome on WINDOWS (6f9e63aed848386f662581a19c0af759)] -> xpath: //button[text()='Sign Out']] is displayed
+2025-12-01 19:52:36   INFO [loginTests.LoginTestWithPageObject] : Browser was closed
+2025-12-01 19:52:36   INFO [loginTests.LoginTestWithPageObject] : Test finished
+2025-12-01 19:52:36   INFO [loginTests.LoginTestWithPageObject] : ------------
+2025-12-01 19:52:36   INFO [loginTests.LoginTestWithPageObject] : Test started
+2025-12-01 19:52:37   INFO [loginTests.LoginTestWithPageObject] : Browser was opened
+2025-12-01 19:52:40   INFO [pages.LoginPage] : Login page was openned
+2025-12-01 19:52:40   INFO [pages.LoginPage] :  '!qaauto'  was inputed into element 
+2025-12-01 19:52:40   INFO [pages.LoginPage] :  '123456qwerty'  was inputed into element 
+2025-12-01 19:52:43   INFO [pages.LoginPage] : Element [[ChromeDriver: chrome on WINDOWS (e477191ce6c6496866968b60a1169a95)] -> xpath: //button[text()='Sign In']] was clicked
+2025-12-01 19:52:43   INFO [pages.LoginPage] : Element [[ChromeDriver: chrome on WINDOWS (e477191ce6c6496866968b60a1169a95)] -> xpath: //div[text()='Invalid username/password.']] is displayed
+2025-12-01 19:52:43   INFO [loginTests.LoginTestWithPageObject] : Browser was closed
+2025-12-01 19:52:43   INFO [loginTests.LoginTestWithPageObject] : Test finished
+2025-12-01 19:52:43   INFO [loginTests.LoginTestWithPageObject] : ------------
+2025-12-01 21:12:52   INFO [loginTests.LoginTestWithPageObject] : Test started
+2025-12-01 21:12:58   INFO [loginTests.LoginTestWithPageObject] : Browser was opened
+2025-12-01 21:13:00   INFO [pages.LoginPage] : Login page was openned
+2025-12-01 21:13:01   INFO [pages.LoginPage] :  'qaauto'  was inputed into element 
+2025-12-01 21:13:02   INFO [pages.LoginPage] :  '123456qwerty'  was inputed into element 
+2025-12-01 21:13:15   INFO [pages.LoginPage] : Element Proxy element for: DefaultElementLocator 'By.xpath: //button[text()='Sign In']' was clicked
+2025-12-01 21:13:15   INFO [pages.HomePage] : Element [[ChromeDriver: chrome on WINDOWS (898f139637617dc40de7e7e5ae5003de)] -> xpath: //button[text()='Sign Out']] is displayed
+2025-12-01 21:13:16   INFO [loginTests.LoginTestWithPageObject] : Browser was closed
+2025-12-01 21:13:16   INFO [loginTests.LoginTestWithPageObject] : Test finished
+2025-12-01 21:13:16   INFO [loginTests.LoginTestWithPageObject] : ------------
+2025-12-01 21:13:16   INFO [loginTests.LoginTestWithPageObject] : Test started
+2025-12-01 21:13:17   INFO [loginTests.LoginTestWithPageObject] : Browser was opened
+2025-12-01 21:13:19   INFO [pages.LoginPage] : Login page was openned
+2025-12-01 21:13:19   INFO [pages.LoginPage] :  '!qaauto'  was inputed into element 
+2025-12-01 21:13:20   INFO [pages.LoginPage] :  '123456qwerty'  was inputed into element 
+2025-12-01 21:13:22   INFO [pages.LoginPage] : Element [[ChromeDriver: chrome on WINDOWS (46ad07f33242fbe998ed6e03a4148503)] -> xpath: //button[text()='Sign In']] was clicked
+2025-12-01 21:13:22   INFO [pages.LoginPage] : Element [[ChromeDriver: chrome on WINDOWS (46ad07f33242fbe998ed6e03a4148503)] -> xpath: //div[text()='Invalid username/password.']] is displayed
+2025-12-01 21:13:23   INFO [loginTests.LoginTestWithPageObject] : Browser was closed
+2025-12-01 21:13:23   INFO [loginTests.LoginTestWithPageObject] : Test finished
+2025-12-01 21:13:23   INFO [loginTests.LoginTestWithPageObject] : ------------
+2025-12-01 21:40:34   INFO [loginTests.LoginTestWithPageObject] : Test started
+2025-12-01 21:40:37   INFO [loginTests.LoginTestWithPageObject] : Browser was opened
+2025-12-01 21:40:38   INFO [pages.LoginPage] : Login page was openned
+2025-12-01 21:40:38   INFO [pages.LoginPage] :  'qaauto'  was inputed into element 
+2025-12-01 21:40:38   INFO [pages.LoginPage] :  '!123456qwerty'  was inputed into element 
+2025-12-01 21:40:41   INFO [pages.LoginPage] : Element [[ChromeDriver: chrome on WINDOWS (906959331de8d05f76b3c1f3bcdb75da)] -> xpath: //button[text()='Sign In']] was clicked
+2025-12-01 21:40:41   INFO [pages.LoginPage] : Element [[ChromeDriver: chrome on WINDOWS (906959331de8d05f76b3c1f3bcdb75da)] -> xpath: //div[text()='Invalid username/password.']] is displayed
+2025-12-01 21:40:42   INFO [loginTests.LoginTestWithPageObject] : Browser was closed
+2025-12-01 21:40:42   INFO [loginTests.LoginTestWithPageObject] : Test finished
+2025-12-01 21:40:42   INFO [loginTests.LoginTestWithPageObject] : ------------
