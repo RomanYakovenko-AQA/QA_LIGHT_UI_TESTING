@@ -13,16 +13,21 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b57e98c7-15d2-4eb2-98ae-5203a41fadae" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="b57e98c7-15d2-4eb2-98ae-5203a41fadae" name="Changes" comment="19012025">
+      <change afterPath="$PROJECT_DIR$/src/main/java/data/TestData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pages/CreateNewPostPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pages/PostPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/log4j.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/loginTests/LoginTestAllInOneFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/loginTests/LoginTestWithPageObject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/postTests/CreateNewPostTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/log/qalight.log" beforeDir="false" afterPath="$PROJECT_DIR$/log/qalight.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pages/HomePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pages/HomePage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pages/LoginPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pages/LoginPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/baseBase/BaseTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/baseBase/BaseTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/App.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/org/example/AppTest.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,14 +42,19 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "RomanYakovenko-AQA"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;RomanYakovenko-AQA&quot;
   }
-}]]></component>
+}</component>
   <component name="GithubPullRequestsUISettings">{
   &quot;selectedUrlAndAccountId&quot;: {
     &quot;url&quot;: &quot;https://github.com/RomanYakovenko-AQA/QA_LIGHT_UI_TESTING.git&quot;,
@@ -59,9 +69,12 @@
       </MavenGeneralSettings>
     </option>
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 2
-}]]></component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
   <component name="ProjectId" id="2l9Q4a8jcZLmmUzxlTT28oVK01k" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -70,11 +83,12 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "JUnit.CreateNewPostTest.TR001_createNewPost.executor": "Run",
     "JUnit.LoginTestWithPageObject.TR001_validLogin.executor": "Run",
     "JUnit.LoginTestWithPageObject.TR003_invalidPassword (1).executor": "Run",
     "JUnit.LoginTestWithPageObject.executor": "Run",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "06__02__2025",
     "kotlin-language-version-configured": "true",
     "run.code.analysis.last.selected.profile": "pProject Default"
   }
@@ -84,7 +98,23 @@
       <recent name="C:\Users\yakovenr\Documents\QA_LIGHT_UI_TESTING\src\main\resources" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.LoginTestWithPageObject">
+  <component name="RunManager" selected="JUnit.CreateNewPostTest.TR001_createNewPost">
+    <configuration name="CreateNewPostTest.TR001_createNewPost" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="QA_LIGHT_UI_TESTING" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="postTests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="postTests" />
+      <option name="MAIN_CLASS_NAME" value="postTests.CreateNewPostTest" />
+      <option name="METHOD_NAME" value="TR001_createNewPost" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="LoginTestWithPageObject" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="QA_LIGHT_UI_TESTING" />
       <extension name="coverage">
@@ -132,37 +162,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LoginTestWithPageObject.TR003_invalidPassword (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="QA_LIGHT_UI_TESTING" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="loginTests.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="loginTests" />
-      <option name="MAIN_CLASS_NAME" value="loginTests.LoginTestWithPageObject" />
-      <option name="METHOD_NAME" value="TR003_invalidPassword" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="LoginTestWithPageObject.TR003_invalidPassword" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="loginTests.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="loginTests" />
-      <option name="MAIN_CLASS_NAME" value="loginTests.LoginTestWithPageObject" />
-      <option name="METHOD_NAME" value="TR003_invalidPassword" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Whole project" type="JUnit" factoryName="JUnit" activateToolWindowBeforeRun="false" temporary="true" nameIsGenerated="true">
       <extension name="coverage">
         <pattern>
@@ -184,19 +183,19 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="JUnit.CreateNewPostTest.TR001_createNewPost" />
       <item itemvalue="JUnit.LoginTestWithPageObject" />
-      <item itemvalue="JUnit.LoginTestWithPageObject.TR003_invalidPassword (1)" />
       <item itemvalue="JUnit.LoginTestWithPageObject.TR001_validLogin" />
       <item itemvalue="JUnit.Whole project" />
       <item itemvalue="JUnit.LoginTestWithPageObject.TR002_invalidLogin" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.CreateNewPostTest.TR001_createNewPost" />
         <item itemvalue="JUnit.LoginTestWithPageObject" />
-        <item itemvalue="JUnit.LoginTestWithPageObject.TR001_validLogin" />
-        <item itemvalue="JUnit.LoginTestWithPageObject.TR003_invalidPassword (1)" />
         <item itemvalue="JUnit.LoginTestWithPageObject.TR002_invalidLogin" />
         <item itemvalue="JUnit.Whole project" />
+        <item itemvalue="JUnit.LoginTestWithPageObject.TR001_validLogin" />
       </list>
     </recent_temporary>
   </component>
@@ -209,6 +208,15 @@
       <option name="presentableId" value="Default" />
       <updated>1724589624209</updated>
     </task>
+    <task id="LOCAL-00001" summary="19012025">
+      <option name="closed" value="true" />
+      <created>1737304420841</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1737304420841</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -216,11 +224,32 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="CUSTOM_BOOLEAN_PROPERTIES">
+                <map>
+                  <entry key="Show.Git.Branches" value="true" />
+                </map>
+              </option>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="06_02_2025" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="19012025" />
+    <option name="LAST_COMMIT_MESSAGE" value="19012025" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/QA_LIGHT_UI_TESTING$Whole_project.ic" NAME="Whole project Coverage Results" MODIFIED="1737301753315" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true">

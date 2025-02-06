@@ -16,7 +16,7 @@ public class BaseTest {
     private Logger logger = Logger.getLogger(getClass());
     protected PageProvider pageProvider;
 
-    //цей блок
+    //цей блок виконується перед кожним тестом
     @Before
     public void setup(){
         logger.info("Test started");
