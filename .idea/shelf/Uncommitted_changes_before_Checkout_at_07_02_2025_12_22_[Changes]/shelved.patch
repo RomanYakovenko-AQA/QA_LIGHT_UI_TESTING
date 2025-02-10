@@ -1,0 +1,105 @@
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"AutoImportSettings\">\r\n    <option name=\"autoReloadType\" value=\"SELECTIVE\" />\r\n  </component>\r\n  <component name=\"BranchesTreeState\">\r\n    <expand>\r\n      <path>\r\n        <item name=\"ROOT\" type=\"e8cecc67:BranchNodeDescriptor\" />\r\n        <item name=\"LOCAL_ROOT\" type=\"e8cecc67:BranchNodeDescriptor\" />\r\n      </path>\r\n    </expand>\r\n    <select />\r\n  </component>\r\n  <component name=\"ChangeListManager\">\r\n    <list default=\"true\" id=\"b57e98c7-15d2-4eb2-98ae-5203a41fadae\" name=\"Changes\" comment=\"\">\r\n      <change afterPath=\"$PROJECT_DIR$/.gitignore\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/.idea/.gitignore\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/.idea/encodings.xml\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/pom.xml\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/.idea/compiler.xml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/.idea/compiler.xml\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/.idea/misc.xml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/.idea/misc.xml\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/.idea/workspace.xml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/.idea/workspace.xml\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/log/qalight.log\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/log/qalight.log\" afterDir=\"false\" />\r\n    </list>\r\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\r\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\r\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\r\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\r\n  </component>\r\n  <component name=\"FileTemplateManagerImpl\">\r\n    <option name=\"RECENT_TEMPLATES\">\r\n      <list>\r\n        <option value=\"Class\" />\r\n      </list>\r\n    </option>\r\n  </component>\r\n  <component name=\"Git.Settings\">\r\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\r\n  </component>\r\n  <component name=\"GitHubPullRequestSearchHistory\"><![CDATA[{\r\n  \"lastFilter\": {\r\n    \"state\": \"OPEN\",\r\n    \"assignee\": \"RomanYakovenko-AQA\"\r\n  }\r\n}]]></component>\r\n  <component name=\"GithubPullRequestsUISettings\">{\r\n  &quot;selectedUrlAndAccountId&quot;: {\r\n    &quot;url&quot;: &quot;https://github.com/RomanYakovenko-AQA/QA_LIGHT_UI_TESTING.git&quot;,\r\n    &quot;accountId&quot;: &quot;3fb81826-72bb-4f06-8a43-93dcefd0aeee&quot;\r\n  }\r\n}</component>\r\n  <component name=\"MavenImportPreferences\">\r\n    <option name=\"generalSettings\">\r\n      <MavenGeneralSettings>\r\n        <option name=\"customMavenHome\" value=\"C:\\Program Files\\JetBrains\\IntelliJ IDEA Community Edition 2020.2.3\\plugins\\maven\\lib\\maven3\" />\r\n        <option name=\"mavenHomeTypeForPersistence\" value=\"CUSTOM\" />\r\n      </MavenGeneralSettings>\r\n    </option>\r\n  </component>\r\n  <component name=\"ProjectColorInfo\"><![CDATA[{\r\n  \"associatedIndex\": 2\r\n}]]></component>\r\n  <component name=\"ProjectId\" id=\"2l9Q4a8jcZLmmUzxlTT28oVK01k\" />\r\n  <component name=\"ProjectLevelVcsManager\" settingsEditedManually=\"true\" />\r\n  <component name=\"ProjectViewState\">\r\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\r\n    <option name=\"showLibraryContents\" value=\"true\" />\r\n  </component>\r\n  <component name=\"PropertiesComponent\"><![CDATA[{\r\n  \"keyToString\": {\r\n    \"JUnit.LoginTestWithPageObject.TR001_validLogin.executor\": \"Run\",\r\n    \"JUnit.LoginTestWithPageObject.TR003_invalidPassword (1).executor\": \"Run\",\r\n    \"JUnit.LoginTestWithPageObject.executor\": \"Run\",\r\n    \"SHARE_PROJECT_CONFIGURATION_FILES\": \"true\",\r\n    \"git-widget-placeholder\": \"master\",\r\n    \"kotlin-language-version-configured\": \"true\",\r\n    \"run.code.analysis.last.selected.profile\": \"pProject Default\"\r\n  }\r\n}]]></component>\r\n  <component name=\"RecentsManager\">\r\n    <key name=\"CopyFile.RECENT_KEYS\">\r\n      <recent name=\"C:\\Users\\yakovenr\\Documents\\QA_LIGHT_UI_TESTING\\src\\main\\resources\" />\r\n    </key>\r\n  </component>\r\n  <component name=\"RunManager\" selected=\"JUnit.LoginTestWithPageObject\">\r\n    <configuration name=\"LoginTestWithPageObject\" type=\"JUnit\" factoryName=\"JUnit\" temporary=\"true\" nameIsGenerated=\"true\">\r\n      <module name=\"QA_LIGHT_UI_TESTING\" />\r\n      <extension name=\"coverage\">\r\n        <pattern>\r\n          <option name=\"PATTERN\" value=\"loginTests.*\" />\r\n          <option name=\"ENABLED\" value=\"true\" />\r\n        </pattern>\r\n      </extension>\r\n      <option name=\"PACKAGE_NAME\" value=\"loginTests\" />\r\n      <option name=\"MAIN_CLASS_NAME\" value=\"loginTests.LoginTestWithPageObject\" />\r\n      <option name=\"TEST_OBJECT\" value=\"class\" />\r\n      <method v=\"2\">\r\n        <option name=\"Make\" enabled=\"true\" />\r\n      </method>\r\n    </configuration>\r\n    <configuration name=\"LoginTestWithPageObject.TR001_validLogin\" type=\"JUnit\" factoryName=\"JUnit\" temporary=\"true\" nameIsGenerated=\"true\">\r\n      <module name=\"QA_LIGHT_UI_TESTING\" />\r\n      <extension name=\"coverage\">\r\n        <pattern>\r\n          <option name=\"PATTERN\" value=\"loginTests.*\" />\r\n          <option name=\"ENABLED\" value=\"true\" />\r\n        </pattern>\r\n      </extension>\r\n      <option name=\"PACKAGE_NAME\" value=\"loginTests\" />\r\n      <option name=\"MAIN_CLASS_NAME\" value=\"loginTests.LoginTestWithPageObject\" />\r\n      <option name=\"METHOD_NAME\" value=\"TR001_validLogin\" />\r\n      <option name=\"TEST_OBJECT\" value=\"method\" />\r\n      <method v=\"2\">\r\n        <option name=\"Make\" enabled=\"true\" />\r\n      </method>\r\n    </configuration>\r\n    <configuration name=\"LoginTestWithPageObject.TR002_invalidLogin\" type=\"JUnit\" factoryName=\"JUnit\" temporary=\"true\" nameIsGenerated=\"true\">\r\n      <module name=\"QA_LIGHT_UI_TESTING\" />\r\n      <extension name=\"coverage\">\r\n        <pattern>\r\n          <option name=\"PATTERN\" value=\"loginTests.*\" />\r\n          <option name=\"ENABLED\" value=\"true\" />\r\n        </pattern>\r\n      </extension>\r\n      <option name=\"PACKAGE_NAME\" value=\"loginTests\" />\r\n      <option name=\"MAIN_CLASS_NAME\" value=\"loginTests.LoginTestWithPageObject\" />\r\n      <option name=\"METHOD_NAME\" value=\"TR002_invalidLogin\" />\r\n      <option name=\"TEST_OBJECT\" value=\"method\" />\r\n      <method v=\"2\">\r\n        <option name=\"Make\" enabled=\"true\" />\r\n      </method>\r\n    </configuration>\r\n    <configuration name=\"LoginTestWithPageObject.TR003_invalidPassword (1)\" type=\"JUnit\" factoryName=\"JUnit\" temporary=\"true\" nameIsGenerated=\"true\">\r\n      <module name=\"QA_LIGHT_UI_TESTING\" />\r\n      <extension name=\"coverage\">\r\n        <pattern>\r\n          <option name=\"PATTERN\" value=\"loginTests.*\" />\r\n          <option name=\"ENABLED\" value=\"true\" />\r\n        </pattern>\r\n      </extension>\r\n      <option name=\"PACKAGE_NAME\" value=\"loginTests\" />\r\n      <option name=\"MAIN_CLASS_NAME\" value=\"loginTests.LoginTestWithPageObject\" />\r\n      <option name=\"METHOD_NAME\" value=\"TR003_invalidPassword\" />\r\n      <option name=\"TEST_OBJECT\" value=\"method\" />\r\n      <method v=\"2\">\r\n        <option name=\"Make\" enabled=\"true\" />\r\n      </method>\r\n    </configuration>\r\n    <configuration name=\"LoginTestWithPageObject.TR003_invalidPassword\" type=\"JUnit\" factoryName=\"JUnit\" temporary=\"true\" nameIsGenerated=\"true\">\r\n      <extension name=\"coverage\">\r\n        <pattern>\r\n          <option name=\"PATTERN\" value=\"loginTests.*\" />\r\n          <option name=\"ENABLED\" value=\"true\" />\r\n        </pattern>\r\n      </extension>\r\n      <option name=\"PACKAGE_NAME\" value=\"loginTests\" />\r\n      <option name=\"MAIN_CLASS_NAME\" value=\"loginTests.LoginTestWithPageObject\" />\r\n      <option name=\"METHOD_NAME\" value=\"TR003_invalidPassword\" />\r\n      <option name=\"TEST_OBJECT\" value=\"method\" />\r\n      <method v=\"2\">\r\n        <option name=\"Make\" enabled=\"true\" />\r\n      </method>\r\n    </configuration>\r\n    <configuration name=\"Whole project\" type=\"JUnit\" factoryName=\"JUnit\" activateToolWindowBeforeRun=\"false\" temporary=\"true\" nameIsGenerated=\"true\">\r\n      <extension name=\"coverage\">\r\n        <pattern>\r\n          <option name=\"PATTERN\" value=\"loginTests.*\" />\r\n          <option name=\"ENABLED\" value=\"true\" />\r\n        </pattern>\r\n      </extension>\r\n      <option name=\"ALTERNATIVE_JRE_PATH_ENABLED\" value=\"true\" />\r\n      <option name=\"ALTERNATIVE_JRE_PATH\" value=\"openjdk-15\" />\r\n      <option name=\"PACKAGE_NAME\" value=\"loginTests\" />\r\n      <option name=\"MAIN_CLASS_NAME\" value=\"\" />\r\n      <option name=\"METHOD_NAME\" value=\"\" />\r\n      <option name=\"TEST_OBJECT\" value=\"package\" />\r\n      <option name=\"TEST_SEARCH_SCOPE\">\r\n        <value defaultName=\"wholeProject\" />\r\n      </option>\r\n      <method v=\"2\">\r\n        <option name=\"Make\" enabled=\"true\" />\r\n      </method>\r\n    </configuration>\r\n    <list>\r\n      <item itemvalue=\"JUnit.LoginTestWithPageObject\" />\r\n      <item itemvalue=\"JUnit.LoginTestWithPageObject.TR003_invalidPassword (1)\" />\r\n      <item itemvalue=\"JUnit.LoginTestWithPageObject.TR001_validLogin\" />\r\n      <item itemvalue=\"JUnit.Whole project\" />\r\n      <item itemvalue=\"JUnit.LoginTestWithPageObject.TR002_invalidLogin\" />\r\n    </list>\r\n    <recent_temporary>\r\n      <list>\r\n        <item itemvalue=\"JUnit.LoginTestWithPageObject\" />\r\n        <item itemvalue=\"JUnit.LoginTestWithPageObject.TR001_validLogin\" />\r\n        <item itemvalue=\"JUnit.LoginTestWithPageObject.TR003_invalidPassword (1)\" />\r\n        <item itemvalue=\"JUnit.LoginTestWithPageObject.TR002_invalidLogin\" />\r\n        <item itemvalue=\"JUnit.Whole project\" />\r\n      </list>\r\n    </recent_temporary>\r\n  </component>\r\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\r\n  <component name=\"TaskManager\">\r\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\r\n      <changelist id=\"b57e98c7-15d2-4eb2-98ae-5203a41fadae\" name=\"Changes\" comment=\"\" />\r\n      <created>1724589624209</created>\r\n      <option name=\"number\" value=\"Default\" />\r\n      <option name=\"presentableId\" value=\"Default\" />\r\n      <updated>1724589624209</updated>\r\n    </task>\r\n    <servers />\r\n  </component>\r\n  <component name=\"Vcs.Log.Tabs.Properties\">\r\n    <option name=\"TAB_STATES\">\r\n      <map>\r\n        <entry key=\"MAIN\">\r\n          <value>\r\n            <State />\r\n          </value>\r\n        </entry>\r\n      </map>\r\n    </option>\r\n  </component>\r\n  <component name=\"com.intellij.coverage.CoverageDataManagerImpl\">\r\n    <SUITE FILE_PATH=\"coverage/QA_LIGHT_UI_TESTING$Whole_project.ic\" NAME=\"Whole project Coverage Results\" MODIFIED=\"1737301753315\" SOURCE_PROVIDER=\"com.intellij.coverage.DefaultCoverageFileProvider\" RUNNER=\"idea\" COVERAGE_BY_TEST_ENABLED=\"false\" COVERAGE_TRACING_ENABLED=\"true\">\r\n      <FILTER>loginTests.*</FILTER>\r\n    </SUITE>\r\n    <SUITE FILE_PATH=\"coverage/QA_LIGHT_UI_TESTING$LoginTestWithPageObject_TR002_invalidLogin.ic\" NAME=\"LoginTestWithPageObject.TR002_invalidLogin Coverage Results\" MODIFIED=\"1737300940665\" SOURCE_PROVIDER=\"com.intellij.coverage.DefaultCoverageFileProvider\" RUNNER=\"idea\" COVERAGE_BY_TEST_ENABLED=\"false\" COVERAGE_TRACING_ENABLED=\"false\">\r\n      <FILTER>loginTests.*</FILTER>\r\n    </SUITE>\r\n    <SUITE FILE_PATH=\"coverage/QA_LIGHT_UI_TESTING$LoginTestWithPageObject_TR003_invalidPassword.ic\" NAME=\"LoginTestWithPageObject.TR003_invalidPassword Coverage Results\" MODIFIED=\"1737299393705\" SOURCE_PROVIDER=\"com.intellij.coverage.DefaultCoverageFileProvider\" RUNNER=\"idea\" COVERAGE_BY_TEST_ENABLED=\"false\" COVERAGE_TRACING_ENABLED=\"true\">\r\n      <FILTER>loginTests.*</FILTER>\r\n    </SUITE>\r\n    <SUITE FILE_PATH=\"coverage/QA_LIGHT_UI_TESTING$LoginTestAllInOneFile_invalidLogin.ic\" NAME=\"LoginTestAllInOneFile.invalidLogin Coverage Results\" MODIFIED=\"1725795724289\" SOURCE_PROVIDER=\"com.intellij.coverage.DefaultCoverageFileProvider\" RUNNER=\"idea\" COVERAGE_BY_TEST_ENABLED=\"false\" COVERAGE_TRACING_ENABLED=\"false\">\r\n      <FILTER>loginTests.*</FILTER>\r\n    </SUITE>\r\n  </component>\r\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+--- a/.idea/workspace.xml	(revision 8dccc34268ca10c23d44b793b11b69a01b5e1130)
++++ b/.idea/workspace.xml	(date 1738923667911)
+@@ -39,12 +39,12 @@
+   <component name="Git.Settings">
+     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+   </component>
+-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+-  "lastFilter": {
+-    "state": "OPEN",
+-    "assignee": "RomanYakovenko-AQA"
++  <component name="GitHubPullRequestSearchHistory">{
++  &quot;lastFilter&quot;: {
++    &quot;state&quot;: &quot;OPEN&quot;,
++    &quot;assignee&quot;: &quot;RomanYakovenko-AQA&quot;
+   }
+-}]]></component>
++}</component>
+   <component name="GithubPullRequestsUISettings">{
+   &quot;selectedUrlAndAccountId&quot;: {
+     &quot;url&quot;: &quot;https://github.com/RomanYakovenko-AQA/QA_LIGHT_UI_TESTING.git&quot;,
+@@ -59,26 +59,26 @@
+       </MavenGeneralSettings>
+     </option>
+   </component>
+-  <component name="ProjectColorInfo"><![CDATA[{
+-  "associatedIndex": 2
+-}]]></component>
++  <component name="ProjectColorInfo">{
++  &quot;associatedIndex&quot;: 2
++}</component>
+   <component name="ProjectId" id="2l9Q4a8jcZLmmUzxlTT28oVK01k" />
+   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+   <component name="ProjectViewState">
+     <option name="hideEmptyMiddlePackages" value="true" />
+     <option name="showLibraryContents" value="true" />
+   </component>
+-  <component name="PropertiesComponent"><![CDATA[{
+-  "keyToString": {
+-    "JUnit.LoginTestWithPageObject.TR001_validLogin.executor": "Run",
+-    "JUnit.LoginTestWithPageObject.TR003_invalidPassword (1).executor": "Run",
+-    "JUnit.LoginTestWithPageObject.executor": "Run",
+-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+-    "git-widget-placeholder": "master",
+-    "kotlin-language-version-configured": "true",
+-    "run.code.analysis.last.selected.profile": "pProject Default"
++  <component name="PropertiesComponent">{
++  &quot;keyToString&quot;: {
++    &quot;JUnit.LoginTestWithPageObject.TR001_validLogin.executor&quot;: &quot;Run&quot;,
++    &quot;JUnit.LoginTestWithPageObject.TR003_invalidPassword (1).executor&quot;: &quot;Run&quot;,
++    &quot;JUnit.LoginTestWithPageObject.executor&quot;: &quot;Run&quot;,
++    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
++    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
++    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
++    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;
+   }
+-}]]></component>
++}</component>
+   <component name="RecentsManager">
+     <key name="CopyFile.RECENT_KEYS">
+       <recent name="C:\Users\yakovenr\Documents\QA_LIGHT_UI_TESTING\src\main\resources" />
+@@ -148,21 +148,6 @@
+         <option name="Make" enabled="true" />
+       </method>
+     </configuration>
+-    <configuration name="LoginTestWithPageObject.TR003_invalidPassword" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+-      <extension name="coverage">
+-        <pattern>
+-          <option name="PATTERN" value="loginTests.*" />
+-          <option name="ENABLED" value="true" />
+-        </pattern>
+-      </extension>
+-      <option name="PACKAGE_NAME" value="loginTests" />
+-      <option name="MAIN_CLASS_NAME" value="loginTests.LoginTestWithPageObject" />
+-      <option name="METHOD_NAME" value="TR003_invalidPassword" />
+-      <option name="TEST_OBJECT" value="method" />
+-      <method v="2">
+-        <option name="Make" enabled="true" />
+-      </method>
+-    </configuration>
+     <configuration name="Whole project" type="JUnit" factoryName="JUnit" activateToolWindowBeforeRun="false" temporary="true" nameIsGenerated="true">
+       <extension name="coverage">
+         <pattern>
+@@ -192,11 +177,11 @@
+     </list>
+     <recent_temporary>
+       <list>
+-        <item itemvalue="JUnit.LoginTestWithPageObject" />
++        <item itemvalue="JUnit.LoginTestWithPageObject.TR002_invalidLogin" />
++        <item itemvalue="JUnit.Whole project" />
+         <item itemvalue="JUnit.LoginTestWithPageObject.TR001_validLogin" />
+         <item itemvalue="JUnit.LoginTestWithPageObject.TR003_invalidPassword (1)" />
+-        <item itemvalue="JUnit.LoginTestWithPageObject.TR002_invalidLogin" />
+-        <item itemvalue="JUnit.Whole project" />
++        <item itemvalue="JUnit.LoginTestWithPageObject" />
+       </list>
+     </recent_temporary>
+   </component>

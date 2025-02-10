@@ -1,22 +1,47 @@
 package postTests;
 
 import baseBase.BaseTest;
+import org.junit.After;
 import org.junit.Test;
+import utils.Utils;
 
 public class CreateNewPostTest extends BaseTest {
+    //GUID = 1b1b1b1b-1b1b-1b1b-1b1b-1b1b1b1b1b1b
+    private final String POST_TITLE = "TR001 CreateNewPostTitle " + Utils.getDateAndTimeFormatted();
+
     @Test
-    public void TR001_createNewPost(){
+    public void TR001_createNewPost() {
+
         pageProvider.getLoginPage()
                 .openLoginPageAndFillLoginFormWithValidCred()
                 .checkIsRedirectToHomePage()
                 .clickOnButtonCreatePost()
-                .checkIsRedirectToCreatPostPage()
-                .enterTitleIntoInputTitle("Title of the post 06022025")
+                .checkIsRedirectToCreatePostPage()
+                .enterTitleIntoInputTitle(POST_TITLE)
                 .enterTextIntoInputBody("Post Body 06022025")
+                //.setCheckBoxTrue()
                 .clickOnButtonSaveNewPost()
                 .checkIsRedirectToPostPage()
+                .checkIsSuccessMessageDisplayed()
+                .checkTextInSuccessMessage("New post successfully created.")
+                //.is this post unique?
+                .getHeaderElement().clickOnMyProfileButton()
+                .checkIsRedirectToMyProfilePage()
+                .checkPostWithTitleIsPresent(POST_TITLE, 1)
         ;
     }
 
+    @After
+    public void deletePosts() {
+        pageProvider.getHomePage()
+                .openHomePageAndLoginIfNeeded()
+                .getHeaderElement().clickOnMyProfileButton()
+                .checkIsRedirectToMyProfilePage()
+                .deletePostsTillPresent(POST_TITLE)
+
+        ;
     }
+
+
+}
 

@@ -18,7 +18,7 @@ public class CreateNewPostPage extends ParentPage{
         super(webDriver);
     }
 
-    public CreateNewPostPage checkIsRedirectToCreatPostPage() {
+    public CreateNewPostPage checkIsRedirectToCreatePostPage() {
        //TODO checkUrl
         //TODO check some element
         return this;

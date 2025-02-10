@@ -14,20 +14,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b57e98c7-15d2-4eb2-98ae-5203a41fadae" name="Changes" comment="19012025">
-      <change afterPath="$PROJECT_DIR$/src/main/java/data/TestData.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pages/CreateNewPostPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pages/PostPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/log4j.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/loginTests/LoginTestAllInOneFile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/loginTests/LoginTestWithPageObject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/postTests/CreateNewPostTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pages/MyProfilePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pages/elements/HeaderElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/utils/Utils.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/log/qalight.log" beforeDir="false" afterPath="$PROJECT_DIR$/log/qalight.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pages/CreateNewPostPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pages/CreateNewPostPage.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/pages/HomePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pages/HomePage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pages/LoginPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pages/LoginPage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/baseBase/BaseTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/baseBase/BaseTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/example/App.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/org/example/AppTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pages/ParentPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pages/ParentPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pages/PostPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pages/PostPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/postTests/CreateNewPostTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/postTests/CreateNewPostTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/log4j.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/log4j.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/pages/HomePage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pages/HomePage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/pages/LoginPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pages/LoginPage.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,6 +36,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="AnnotationType" />
         <option value="Class" />
       </list>
     </option>
@@ -76,7 +76,9 @@
   &quot;associatedIndex&quot;: 2
 }</component>
   <component name="ProjectId" id="2l9Q4a8jcZLmmUzxlTT28oVK01k" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -88,14 +90,20 @@
     "JUnit.LoginTestWithPageObject.TR003_invalidPassword (1).executor": "Run",
     "JUnit.LoginTestWithPageObject.executor": "Run",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "06__02__2025",
+    "git-widget-placeholder": "07-02-2025-2",
     "kotlin-language-version-configured": "true",
     "run.code.analysis.last.selected.profile": "pProject Default"
   }
 }]]></component>
   <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="pages" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\yakovenr\Documents\QA_LIGHT_UI_TESTING\src\main\resources" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\yakovenr\Documents\QA_LIGHT_UI_TESTING\src\main\java\utils" />
     </key>
   </component>
   <component name="RunManager" selected="JUnit.CreateNewPostTest.TR001_createNewPost">
