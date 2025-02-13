@@ -13,14 +13,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b57e98c7-15d2-4eb2-98ae-5203a41fadae" name="Changes" comment="19012025">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/log/qalight.log" beforeDir="false" afterPath="$PROJECT_DIR$/log/qalight.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pages/CommonActionsWithElements.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pages/CommonActionsWithElements.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pages/CreateNewPostPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pages/CreateNewPostPage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pages/PostPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pages/PostPage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/postTests/CreateNewPostTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/postTests/CreateNewPostTest.java" afterDir="false" />
-    </list>
+    <list default="true" id="b57e98c7-15d2-4eb2-98ae-5203a41fadae" name="Changes" comment="19012025" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -48,12 +41,22 @@
     &quot;assignee&quot;: &quot;RomanYakovenko-AQA&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings">{
-  &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/RomanYakovenko-AQA/QA_LIGHT_UI_TESTING.git&quot;,
-    &quot;accountId&quot;: &quot;3fb81826-72bb-4f06-8a43-93dcefd0aeee&quot;
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/RomanYakovenko-AQA/QA_LIGHT_UI_TESTING.git",
+    "accountId": "3fb81826-72bb-4f06-8a43-93dcefd0aeee"
+  },
+  "recentNewPullRequestHead": {
+    "server": {
+      "useHttp": false,
+      "host": "github.com",
+      "port": null,
+      "suffix": null
+    },
+    "owner": "RomanYakovenko-AQA",
+    "repository": "QA_LIGHT_UI_TESTING"
   }
-}</component>
+}]]></component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
@@ -83,7 +86,7 @@
     "JUnit.LoginTestWithPageObject.TR003_invalidPassword (1).executor": "Run",
     "JUnit.LoginTestWithPageObject.executor": "Run",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "10__02__2025__methods__for__checkBox",
+    "git-widget-placeholder": "#3 on 10__02__2025__methods__for__checkBox",
     "kotlin-language-version-configured": "true",
     "run.code.analysis.last.selected.profile": "pProject Default"
   }
@@ -225,7 +228,23 @@
       <option name="project" value="LOCAL" />
       <updated>1739185598430</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="19012025">
+      <option name="closed" value="true" />
+      <created>1739479397249</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1739479397249</updated>
+    </task>
+    <task id="LOCAL-00004" summary="19012025">
+      <option name="closed" value="true" />
+      <created>1739479720869</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1739479720869</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
