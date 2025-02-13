@@ -54,6 +54,26 @@ public class CommonActionsWithElements {
         Assert.fail("Can not work with element " + e);
     }
 
+    // set checkbox state
+    protected void setCheckBoxToNeededState(WebElement element, String neededState){
+        if ("check".equals(neededState) || "uncheck".equals(neededState)){
+            if (element.isSelected() && "check".equals(neededState)){
+                logger.info("Checkbox is already checked");
+            } else if (element.isSelected() && "uncheck".equals(neededState)){
+                clickOnElement(element);
+            } else if (!element.isSelected() && "check".equals(neededState)){
+                clickOnElement(element);
+            } else {
+                logger.info("Checkbox is already unchecked");
+            }
+        } else {
+            logger.error("State should be 'check' or 'uncheck'");
+            Assert.fail("State should be 'check' or 'uncheck'");
+        }
+    }
+
+
+
 
 }
  

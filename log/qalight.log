@@ -1032,3 +1032,211 @@ Session ID: fcea009e3e6f25206a28d08898b710c2
 2025-10-02 09:54:12   INFO [postTests.CreateNewPostTest] : Browser was closed
 2025-10-02 09:54:12   INFO [postTests.CreateNewPostTest] : Test finished
 2025-10-02 09:54:12   INFO [postTests.CreateNewPostTest] : ------------
+2025-10-02 13:55:33   INFO [postTests.CreateNewPostTest] : Test started
+2025-10-02 13:55:39   INFO [postTests.CreateNewPostTest] : Browser was opened
+2025-10-02 13:55:42   INFO [pages.LoginPage] : Login page was openned
+2025-10-02 13:55:42   INFO [pages.LoginPage] :  'qaauto'  was inputed into element 
+2025-10-02 13:55:42   INFO [pages.LoginPage] :  '123456qwerty'  was inputed into element 
+2025-10-02 13:55:51   INFO [pages.LoginPage] : Element Proxy element for: DefaultElementLocator 'By.xpath: //button[text()='Sign In']' was clicked
+2025-10-02 13:55:51   INFO [pages.HomePage] : Element [[ChromeDriver: chrome on WINDOWS (0c718352b707c8ed1194e03abaf4cd51)] -> xpath: //button[text()='Sign Out']] is displayed
+2025-10-02 13:55:53   INFO [pages.HomePage] : Element [[ChromeDriver: chrome on WINDOWS (0c718352b707c8ed1194e03abaf4cd51)] -> xpath: //a[@class='btn btn-sm btn-success mr-2']] was clicked
+2025-10-02 13:55:53   INFO [pages.CreateNewPostPage] :  'TR001 CreateNewPostTitle 2025-02-10_13-55-33'  was inputed into element 
+2025-10-02 13:55:53   INFO [pages.CreateNewPostPage] :  'Post Body 06022025'  was inputed into element 
+2025-10-02 13:56:01   INFO [pages.CreateNewPostPage] : Element Proxy element for: DefaultElementLocator 'By.xpath: //button[text()='Save New Post']' was clicked
+2025-10-02 13:56:02   INFO [pages.PostPage] : Element [[ChromeDriver: chrome on WINDOWS (0c718352b707c8ed1194e03abaf4cd51)] -> xpath: //div[@class='alert alert-success text-center']] is displayed
+2025-10-02 13:56:05   INFO [pages.elements.HeaderElement] : Element [[ChromeDriver: chrome on WINDOWS (0c718352b707c8ed1194e03abaf4cd51)] -> xpath: //img[@alt='My profile']] was clicked
+2025-10-02 13:56:07   INFO [pages.LoginPage] : Login page was openned
+2025-10-02 13:56:07   INFO [pages.HomePage] : Element [[ChromeDriver: chrome on WINDOWS (0c718352b707c8ed1194e03abaf4cd51)] -> xpath: //button[text()='Sign Out']] is displayed
+2025-10-02 13:56:07   INFO [pages.HomePage] : User is already logged in
+2025-10-02 13:56:10   INFO [pages.elements.HeaderElement] : Element [[ChromeDriver: chrome on WINDOWS (0c718352b707c8ed1194e03abaf4cd51)] -> xpath: //img[@alt='My profile']] was clicked
+2025-10-02 13:56:12   INFO [pages.MyProfilePage] : Element [[ChromeDriver: chrome on WINDOWS (0c718352b707c8ed1194e03abaf4cd51)] -> xpath: //*[text()='TR001 CreateNewPostTitle 2025-02-10_13-55-33']] was clicked
+2025-10-02 13:56:31   INFO [pages.PostPage] : Element Proxy element for: DefaultElementLocator 'By.xpath: //button[@class='delete-post-button text-danger']' was clicked
+2025-10-02 13:56:31   INFO [pages.MyProfilePage] : Element [[ChromeDriver: chrome on WINDOWS (0c718352b707c8ed1194e03abaf4cd51)] -> xpath: //*[text()='Post successfully deleted.']] is displayed
+2025-10-02 13:56:31   INFO [pages.MyProfilePage] : Post with title TR001 CreateNewPostTitle 2025-02-10_13-55-33 was deleted
+2025-10-02 13:56:37   INFO [postTests.CreateNewPostTest] : Browser was closed
+2025-10-02 13:56:37   INFO [postTests.CreateNewPostTest] : Test finished
+2025-10-02 13:56:37   INFO [postTests.CreateNewPostTest] : ------------
+2025-13-02 21:54:09   INFO [postTests.CreateNewPostTest] : Test started
+2025-13-02 21:54:15   INFO [postTests.CreateNewPostTest] : Browser was opened
+2025-13-02 21:54:18   INFO [pages.LoginPage] : Login page was openned
+2025-13-02 21:54:18   INFO [pages.LoginPage] :  'qaauto'  was inputed into element 
+2025-13-02 21:54:18   INFO [pages.LoginPage] :  '123456qwerty'  was inputed into element 
+2025-13-02 21:54:26   INFO [pages.LoginPage] : Element Proxy element for: DefaultElementLocator 'By.xpath: //button[text()='Sign In']' was clicked
+2025-13-02 21:54:26   INFO [pages.HomePage] : Element [[ChromeDriver: chrome on WINDOWS (f624eeaf7b0560ae72911d2d4c67cbc3)] -> xpath: //button[text()='Sign Out']] is displayed
+2025-13-02 21:54:27   INFO [pages.HomePage] : Element [[ChromeDriver: chrome on WINDOWS (f624eeaf7b0560ae72911d2d4c67cbc3)] -> xpath: //a[@class='btn btn-sm btn-success mr-2']] was clicked
+2025-13-02 21:54:27   INFO [pages.CreateNewPostPage] :  'TR001 CreateNewPostTitle 2025-02-13_21-54-09'  was inputed into element 
+2025-13-02 21:54:27   INFO [pages.CreateNewPostPage] :  'Post Body 06022025'  was inputed into element 
+2025-13-02 21:54:35   INFO [pages.CreateNewPostPage] : Element Proxy element for: DefaultElementLocator 'By.xpath: //button[text()='Save New Post']' was clicked
+2025-13-02 21:54:35   INFO [pages.PostPage] : Element [[ChromeDriver: chrome on WINDOWS (f624eeaf7b0560ae72911d2d4c67cbc3)] -> xpath: //div[@class='alert alert-success text-center']] is displayed
+2025-13-02 21:54:38   INFO [pages.elements.HeaderElement] : Element [[ChromeDriver: chrome on WINDOWS (f624eeaf7b0560ae72911d2d4c67cbc3)] -> xpath: //img[@alt='My profile']] was clicked
+2025-13-02 21:54:39   INFO [pages.LoginPage] : Login page was openned
+2025-13-02 21:54:40   INFO [pages.HomePage] : Element [[ChromeDriver: chrome on WINDOWS (f624eeaf7b0560ae72911d2d4c67cbc3)] -> xpath: //button[text()='Sign Out']] is displayed
+2025-13-02 21:54:40   INFO [pages.HomePage] : User is already logged in
+2025-13-02 21:54:42   INFO [pages.elements.HeaderElement] : Element [[ChromeDriver: chrome on WINDOWS (f624eeaf7b0560ae72911d2d4c67cbc3)] -> xpath: //img[@alt='My profile']] was clicked
+2025-13-02 21:54:44   INFO [pages.MyProfilePage] : Element [[ChromeDriver: chrome on WINDOWS (f624eeaf7b0560ae72911d2d4c67cbc3)] -> xpath: //*[text()='TR001 CreateNewPostTitle 2025-02-13_21-54-09']] was clicked
+2025-13-02 21:54:53   INFO [pages.PostPage] : Element Proxy element for: DefaultElementLocator 'By.xpath: //button[@class='delete-post-button text-danger']' was clicked
+2025-13-02 21:54:53   INFO [pages.MyProfilePage] : Element [[ChromeDriver: chrome on WINDOWS (f624eeaf7b0560ae72911d2d4c67cbc3)] -> xpath: //*[text()='Post successfully deleted.']] is displayed
+2025-13-02 21:54:53   INFO [pages.MyProfilePage] : Post with title TR001 CreateNewPostTitle 2025-02-13_21-54-09 was deleted
+2025-13-02 21:54:59   INFO [postTests.CreateNewPostTest] : Browser was closed
+2025-13-02 21:54:59   INFO [postTests.CreateNewPostTest] : Test finished
+2025-13-02 21:54:59   INFO [postTests.CreateNewPostTest] : ------------
+2025-13-02 22:05:55   INFO [postTests.CreateNewPostTest] : Test started
+2025-13-02 22:05:57   INFO [postTests.CreateNewPostTest] : Browser was opened
+2025-13-02 22:06:00   INFO [pages.LoginPage] : Login page was openned
+2025-13-02 22:06:00   INFO [pages.LoginPage] :  'qaauto'  was inputed into element 
+2025-13-02 22:06:00   INFO [pages.LoginPage] :  '123456qwerty'  was inputed into element 
+2025-13-02 22:06:08   INFO [pages.LoginPage] : Element Proxy element for: DefaultElementLocator 'By.xpath: //button[text()='Sign In']' was clicked
+2025-13-02 22:06:08   INFO [pages.HomePage] : Element [[ChromeDriver: chrome on WINDOWS (952a3fdb2d0f84081c5594eef3f0528a)] -> xpath: //button[text()='Sign Out']] is displayed
+2025-13-02 22:06:10   INFO [pages.HomePage] : Element [[ChromeDriver: chrome on WINDOWS (952a3fdb2d0f84081c5594eef3f0528a)] -> xpath: //a[@class='btn btn-sm btn-success mr-2']] was clicked
+2025-13-02 22:06:10   INFO [pages.CreateNewPostPage] :  'TR001 CreateNewPostTitle 2025-02-13_22-05-55'  was inputed into element 
+2025-13-02 22:06:10   INFO [pages.CreateNewPostPage] :  'Post Body 06022025'  was inputed into element 
+2025-13-02 22:06:10   INFO [pages.CreateNewPostPage] : Element [[ChromeDriver: chrome on WINDOWS (952a3fdb2d0f84081c5594eef3f0528a)] -> xpath: //input [@name='uniquePost']] was clicked
+2025-13-02 22:06:17   INFO [pages.CreateNewPostPage] : Element Proxy element for: DefaultElementLocator 'By.xpath: //button[text()='Save New Post']' was clicked
+2025-13-02 22:06:17   INFO [pages.PostPage] : Element [[ChromeDriver: chrome on WINDOWS (952a3fdb2d0f84081c5594eef3f0528a)] -> xpath: //div[@class='alert alert-success text-center']] is displayed
+2025-13-02 22:06:20   INFO [pages.elements.HeaderElement] : Element [[ChromeDriver: chrome on WINDOWS (952a3fdb2d0f84081c5594eef3f0528a)] -> xpath: //img[@alt='My profile']] was clicked
+2025-13-02 22:06:22   INFO [pages.LoginPage] : Login page was openned
+2025-13-02 22:06:22   INFO [pages.HomePage] : Element [[ChromeDriver: chrome on WINDOWS (952a3fdb2d0f84081c5594eef3f0528a)] -> xpath: //button[text()='Sign Out']] is displayed
+2025-13-02 22:06:22   INFO [pages.HomePage] : User is already logged in
+2025-13-02 22:06:25   INFO [pages.elements.HeaderElement] : Element [[ChromeDriver: chrome on WINDOWS (952a3fdb2d0f84081c5594eef3f0528a)] -> xpath: //img[@alt='My profile']] was clicked
+2025-13-02 22:06:26   INFO [pages.MyProfilePage] : Element [[ChromeDriver: chrome on WINDOWS (952a3fdb2d0f84081c5594eef3f0528a)] -> xpath: //*[text()='TR001 CreateNewPostTitle 2025-02-13_22-05-55']] was clicked
+2025-13-02 22:06:35   INFO [pages.PostPage] : Element Proxy element for: DefaultElementLocator 'By.xpath: //button[@class='delete-post-button text-danger']' was clicked
+2025-13-02 22:06:35   INFO [pages.MyProfilePage] : Element [[ChromeDriver: chrome on WINDOWS (952a3fdb2d0f84081c5594eef3f0528a)] -> xpath: //*[text()='Post successfully deleted.']] is displayed
+2025-13-02 22:06:35   INFO [pages.MyProfilePage] : Post with title TR001 CreateNewPostTitle 2025-02-13_22-05-55 was deleted
+2025-13-02 22:06:40   INFO [postTests.CreateNewPostTest] : Browser was closed
+2025-13-02 22:06:40   INFO [postTests.CreateNewPostTest] : Test finished
+2025-13-02 22:06:40   INFO [postTests.CreateNewPostTest] : ------------
+2025-13-02 22:29:56   INFO [postTests.CreateNewPostTest] : Test started
+2025-13-02 22:29:59   INFO [postTests.CreateNewPostTest] : Browser was opened
+2025-13-02 22:30:00   INFO [pages.LoginPage] : Login page was openned
+2025-13-02 22:30:00   INFO [pages.LoginPage] :  'qaauto'  was inputed into element 
+2025-13-02 22:30:01   INFO [pages.LoginPage] :  '123456qwerty'  was inputed into element 
+2025-13-02 22:30:09   INFO [pages.LoginPage] : Element Proxy element for: DefaultElementLocator 'By.xpath: //button[text()='Sign In']' was clicked
+2025-13-02 22:30:09   INFO [pages.HomePage] : Element [[ChromeDriver: chrome on WINDOWS (7781f8ba6f850e9b652d162abfb29a22)] -> xpath: //button[text()='Sign Out']] is displayed
+2025-13-02 22:30:10   INFO [pages.HomePage] : Element [[ChromeDriver: chrome on WINDOWS (7781f8ba6f850e9b652d162abfb29a22)] -> xpath: //a[@class='btn btn-sm btn-success mr-2']] was clicked
+2025-13-02 22:30:11   INFO [pages.CreateNewPostPage] :  'TR001 CreateNewPostTitle 2025-02-13_22-29-56'  was inputed into element 
+2025-13-02 22:30:11   INFO [pages.CreateNewPostPage] :  'Post Body 06022025'  was inputed into element 
+2025-13-02 22:30:11   INFO [pages.CreateNewPostPage] : Element [[ChromeDriver: chrome on WINDOWS (7781f8ba6f850e9b652d162abfb29a22)] -> xpath: //input [@name='uniquePost']] was clicked
+2025-13-02 22:30:19   INFO [pages.CreateNewPostPage] : Element Proxy element for: DefaultElementLocator 'By.xpath: //button[text()='Save New Post']' was clicked
+2025-13-02 22:30:19   INFO [pages.PostPage] : Element [[ChromeDriver: chrome on WINDOWS (7781f8ba6f850e9b652d162abfb29a22)] -> xpath: //div[@class='alert alert-success text-center']] is displayed
+2025-13-02 22:30:21   INFO [pages.LoginPage] : Login page was openned
+2025-13-02 22:30:21   INFO [pages.HomePage] : Element [[ChromeDriver: chrome on WINDOWS (7781f8ba6f850e9b652d162abfb29a22)] -> xpath: //button[text()='Sign Out']] is displayed
+2025-13-02 22:30:21   INFO [pages.HomePage] : User is already logged in
+2025-13-02 22:30:23   INFO [pages.elements.HeaderElement] : Element [[ChromeDriver: chrome on WINDOWS (7781f8ba6f850e9b652d162abfb29a22)] -> xpath: //img[@alt='My profile']] was clicked
+2025-13-02 22:30:25   INFO [pages.MyProfilePage] : Element [[ChromeDriver: chrome on WINDOWS (7781f8ba6f850e9b652d162abfb29a22)] -> xpath: //*[text()='TR001 CreateNewPostTitle 2025-02-13_22-29-56']] was clicked
+2025-13-02 22:30:33   INFO [pages.PostPage] : Element Proxy element for: DefaultElementLocator 'By.xpath: //button[@class='delete-post-button text-danger']' was clicked
+2025-13-02 22:30:33   INFO [pages.MyProfilePage] : Element [[ChromeDriver: chrome on WINDOWS (7781f8ba6f850e9b652d162abfb29a22)] -> xpath: //*[text()='Post successfully deleted.']] is displayed
+2025-13-02 22:30:33   INFO [pages.MyProfilePage] : Post with title TR001 CreateNewPostTitle 2025-02-13_22-29-56 was deleted
+2025-13-02 22:30:39   INFO [postTests.CreateNewPostTest] : Browser was closed
+2025-13-02 22:30:39   INFO [postTests.CreateNewPostTest] : Test finished
+2025-13-02 22:30:39   INFO [postTests.CreateNewPostTest] : ------------
+2025-13-02 22:31:45   INFO [postTests.CreateNewPostTest] : Test started
+2025-13-02 22:31:48   INFO [postTests.CreateNewPostTest] : Browser was opened
+2025-13-02 22:31:49   INFO [pages.LoginPage] : Login page was openned
+2025-13-02 22:31:49   INFO [pages.LoginPage] :  'qaauto'  was inputed into element 
+2025-13-02 22:31:50   INFO [pages.LoginPage] :  '123456qwerty'  was inputed into element 
+2025-13-02 22:31:58   INFO [pages.LoginPage] : Element Proxy element for: DefaultElementLocator 'By.xpath: //button[text()='Sign In']' was clicked
+2025-13-02 22:31:58   INFO [pages.HomePage] : Element [[ChromeDriver: chrome on WINDOWS (05ba6924326dec193f7a3aab26d9e6fb)] -> xpath: //button[text()='Sign Out']] is displayed
+2025-13-02 22:31:59   INFO [pages.HomePage] : Element [[ChromeDriver: chrome on WINDOWS (05ba6924326dec193f7a3aab26d9e6fb)] -> xpath: //a[@class='btn btn-sm btn-success mr-2']] was clicked
+2025-13-02 22:32:00   INFO [pages.CreateNewPostPage] :  'TR001 CreateNewPostTitle 2025-02-13_22-31-45'  was inputed into element 
+2025-13-02 22:32:00   INFO [pages.CreateNewPostPage] :  'Post Body 06022025'  was inputed into element 
+2025-13-02 22:32:00   INFO [pages.CreateNewPostPage] : Element [[ChromeDriver: chrome on WINDOWS (05ba6924326dec193f7a3aab26d9e6fb)] -> xpath: //input [@name='uniquePost']] was clicked
+2025-13-02 22:32:07   INFO [pages.CreateNewPostPage] : Element Proxy element for: DefaultElementLocator 'By.xpath: //button[text()='Save New Post']' was clicked
+2025-13-02 22:32:08   INFO [pages.PostPage] : Element [[ChromeDriver: chrome on WINDOWS (05ba6924326dec193f7a3aab26d9e6fb)] -> xpath: //div[@class='alert alert-success text-center']] is displayed
+2025-13-02 22:32:10   INFO [pages.elements.HeaderElement] : Element [[ChromeDriver: chrome on WINDOWS (05ba6924326dec193f7a3aab26d9e6fb)] -> xpath: //img[@alt='My profile']] was clicked
+2025-13-02 22:32:13   INFO [pages.LoginPage] : Login page was openned
+2025-13-02 22:32:13   INFO [pages.HomePage] : Element [[ChromeDriver: chrome on WINDOWS (05ba6924326dec193f7a3aab26d9e6fb)] -> xpath: //button[text()='Sign Out']] is displayed
+2025-13-02 22:32:13   INFO [pages.HomePage] : User is already logged in
+2025-13-02 22:32:15   INFO [pages.elements.HeaderElement] : Element [[ChromeDriver: chrome on WINDOWS (05ba6924326dec193f7a3aab26d9e6fb)] -> xpath: //img[@alt='My profile']] was clicked
+2025-13-02 22:32:17   INFO [pages.MyProfilePage] : Element [[ChromeDriver: chrome on WINDOWS (05ba6924326dec193f7a3aab26d9e6fb)] -> xpath: //*[text()='TR001 CreateNewPostTitle 2025-02-13_22-31-45']] was clicked
+2025-13-02 22:32:25   INFO [pages.PostPage] : Element Proxy element for: DefaultElementLocator 'By.xpath: //button[@class='delete-post-button text-danger']' was clicked
+2025-13-02 22:32:25   INFO [pages.MyProfilePage] : Element [[ChromeDriver: chrome on WINDOWS (05ba6924326dec193f7a3aab26d9e6fb)] -> xpath: //*[text()='Post successfully deleted.']] is displayed
+2025-13-02 22:32:25   INFO [pages.MyProfilePage] : Post with title TR001 CreateNewPostTitle 2025-02-13_22-31-45 was deleted
+2025-13-02 22:32:31   INFO [postTests.CreateNewPostTest] : Browser was closed
+2025-13-02 22:32:31   INFO [postTests.CreateNewPostTest] : Test finished
+2025-13-02 22:32:31   INFO [postTests.CreateNewPostTest] : ------------
+2025-13-02 22:33:02   INFO [postTests.CreateNewPostTest] : Test started
+2025-13-02 22:33:04   INFO [postTests.CreateNewPostTest] : Browser was opened
+2025-13-02 22:33:06   INFO [pages.LoginPage] : Login page was openned
+2025-13-02 22:33:06   INFO [pages.LoginPage] :  'qaauto'  was inputed into element 
+2025-13-02 22:33:06   INFO [pages.LoginPage] :  '123456qwerty'  was inputed into element 
+2025-13-02 22:33:18   INFO [pages.LoginPage] : Element Proxy element for: DefaultElementLocator 'By.xpath: //button[text()='Sign In']' was clicked
+2025-13-02 22:33:18   INFO [pages.HomePage] : Element [[ChromeDriver: chrome on WINDOWS (6859a7823656e9e2768f8aeb157817d9)] -> xpath: //button[text()='Sign Out']] is displayed
+2025-13-02 22:33:19   INFO [pages.HomePage] : Element [[ChromeDriver: chrome on WINDOWS (6859a7823656e9e2768f8aeb157817d9)] -> xpath: //a[@class='btn btn-sm btn-success mr-2']] was clicked
+2025-13-02 22:33:19   INFO [pages.CreateNewPostPage] :  'TR001 CreateNewPostTitle 2025-02-13_22-33-02'  was inputed into element 
+2025-13-02 22:33:20   INFO [pages.CreateNewPostPage] :  'Post Body 06022025'  was inputed into element 
+2025-13-02 22:33:20  ERROR [pages.CreateNewPostPage] : State should be 'check' or 'uncheck'
+2025-13-02 22:33:21   INFO [pages.LoginPage] : Login page was openned
+2025-13-02 22:33:21   INFO [pages.HomePage] : Element [[ChromeDriver: chrome on WINDOWS (6859a7823656e9e2768f8aeb157817d9)] -> xpath: //button[text()='Sign Out']] is displayed
+2025-13-02 22:33:21   INFO [pages.HomePage] : User is already logged in
+2025-13-02 22:33:24   INFO [pages.elements.HeaderElement] : Element [[ChromeDriver: chrome on WINDOWS (6859a7823656e9e2768f8aeb157817d9)] -> xpath: //img[@alt='My profile']] was clicked
+2025-13-02 22:33:30   INFO [postTests.CreateNewPostTest] : Browser was closed
+2025-13-02 22:33:30   INFO [postTests.CreateNewPostTest] : Test finished
+2025-13-02 22:33:30   INFO [postTests.CreateNewPostTest] : ------------
+2025-13-02 22:33:47   INFO [postTests.CreateNewPostTest] : Test started
+2025-13-02 22:33:50   INFO [postTests.CreateNewPostTest] : Browser was opened
+2025-13-02 22:33:51   INFO [pages.LoginPage] : Login page was openned
+2025-13-02 22:33:51   INFO [pages.LoginPage] :  'qaauto'  was inputed into element 
+2025-13-02 22:33:51   INFO [pages.LoginPage] :  '123456qwerty'  was inputed into element 
+2025-13-02 22:33:59   INFO [pages.LoginPage] : Element Proxy element for: DefaultElementLocator 'By.xpath: //button[text()='Sign In']' was clicked
+2025-13-02 22:33:59   INFO [pages.HomePage] : Element [[ChromeDriver: chrome on WINDOWS (0441500f5ba931b1166dfe13beeb3785)] -> xpath: //button[text()='Sign Out']] is displayed
+2025-13-02 22:34:01   INFO [pages.HomePage] : Element [[ChromeDriver: chrome on WINDOWS (0441500f5ba931b1166dfe13beeb3785)] -> xpath: //a[@class='btn btn-sm btn-success mr-2']] was clicked
+2025-13-02 22:34:01   INFO [pages.CreateNewPostPage] :  'TR001 CreateNewPostTitle 2025-02-13_22-33-47'  was inputed into element 
+2025-13-02 22:34:01   INFO [pages.CreateNewPostPage] :  'Post Body 06022025'  was inputed into element 
+2025-13-02 22:34:01  ERROR [pages.CreateNewPostPage] : State should be 'check' or 'uncheck'
+2025-13-02 22:34:02   INFO [pages.LoginPage] : Login page was openned
+2025-13-02 22:34:02   INFO [pages.HomePage] : Element [[ChromeDriver: chrome on WINDOWS (0441500f5ba931b1166dfe13beeb3785)] -> xpath: //button[text()='Sign Out']] is displayed
+2025-13-02 22:34:02   INFO [pages.HomePage] : User is already logged in
+2025-13-02 22:34:05   INFO [pages.elements.HeaderElement] : Element [[ChromeDriver: chrome on WINDOWS (0441500f5ba931b1166dfe13beeb3785)] -> xpath: //img[@alt='My profile']] was clicked
+2025-13-02 22:34:11   INFO [postTests.CreateNewPostTest] : Browser was closed
+2025-13-02 22:34:11   INFO [postTests.CreateNewPostTest] : Test finished
+2025-13-02 22:34:11   INFO [postTests.CreateNewPostTest] : ------------
+2025-13-02 22:37:02   INFO [postTests.CreateNewPostTest] : Test started
+2025-13-02 22:37:05   INFO [postTests.CreateNewPostTest] : Browser was opened
+2025-13-02 22:37:06   INFO [pages.LoginPage] : Login page was openned
+2025-13-02 22:37:06   INFO [pages.LoginPage] :  'qaauto'  was inputed into element 
+2025-13-02 22:37:06   INFO [pages.LoginPage] :  '123456qwerty'  was inputed into element 
+2025-13-02 22:37:14   INFO [pages.LoginPage] : Element Proxy element for: DefaultElementLocator 'By.xpath: //button[text()='Sign In']' was clicked
+2025-13-02 22:37:14   INFO [pages.HomePage] : Element [[ChromeDriver: chrome on WINDOWS (432ead68d51630f1b867836314137089)] -> xpath: //button[text()='Sign Out']] is displayed
+2025-13-02 22:37:15   INFO [pages.HomePage] : Element [[ChromeDriver: chrome on WINDOWS (432ead68d51630f1b867836314137089)] -> xpath: //a[@class='btn btn-sm btn-success mr-2']] was clicked
+2025-13-02 22:37:15   INFO [pages.CreateNewPostPage] :  'TR001 CreateNewPostTitle 2025-02-13_22-37-02'  was inputed into element 
+2025-13-02 22:37:16   INFO [pages.CreateNewPostPage] :  'Post Body 06022025'  was inputed into element 
+2025-13-02 22:37:16   INFO [pages.CreateNewPostPage] : Checkbox is already unchecked
+2025-13-02 22:37:23   INFO [pages.CreateNewPostPage] : Element Proxy element for: DefaultElementLocator 'By.xpath: //button[text()='Save New Post']' was clicked
+2025-13-02 22:37:24   INFO [pages.PostPage] : Element [[ChromeDriver: chrome on WINDOWS (432ead68d51630f1b867836314137089)] -> xpath: //div[@class='alert alert-success text-center']] is displayed
+2025-13-02 22:37:26   INFO [pages.elements.HeaderElement] : Element [[ChromeDriver: chrome on WINDOWS (432ead68d51630f1b867836314137089)] -> xpath: //img[@alt='My profile']] was clicked
+2025-13-02 22:37:28   INFO [pages.LoginPage] : Login page was openned
+2025-13-02 22:37:28   INFO [pages.HomePage] : Element [[ChromeDriver: chrome on WINDOWS (432ead68d51630f1b867836314137089)] -> xpath: //button[text()='Sign Out']] is displayed
+2025-13-02 22:37:28   INFO [pages.HomePage] : User is already logged in
+2025-13-02 22:37:31   INFO [pages.elements.HeaderElement] : Element [[ChromeDriver: chrome on WINDOWS (432ead68d51630f1b867836314137089)] -> xpath: //img[@alt='My profile']] was clicked
+2025-13-02 22:37:32   INFO [pages.MyProfilePage] : Element [[ChromeDriver: chrome on WINDOWS (432ead68d51630f1b867836314137089)] -> xpath: //*[text()='TR001 CreateNewPostTitle 2025-02-13_22-37-02']] was clicked
+2025-13-02 22:37:41   INFO [pages.PostPage] : Element Proxy element for: DefaultElementLocator 'By.xpath: //button[@class='delete-post-button text-danger']' was clicked
+2025-13-02 22:37:41   INFO [pages.MyProfilePage] : Element [[ChromeDriver: chrome on WINDOWS (432ead68d51630f1b867836314137089)] -> xpath: //*[text()='Post successfully deleted.']] is displayed
+2025-13-02 22:37:41   INFO [pages.MyProfilePage] : Post with title TR001 CreateNewPostTitle 2025-02-13_22-37-02 was deleted
+2025-13-02 22:37:47   INFO [postTests.CreateNewPostTest] : Browser was closed
+2025-13-02 22:37:47   INFO [postTests.CreateNewPostTest] : Test finished
+2025-13-02 22:37:47   INFO [postTests.CreateNewPostTest] : ------------
+2025-13-02 22:39:41   INFO [postTests.CreateNewPostTest] : Test started
+2025-13-02 22:39:43   INFO [postTests.CreateNewPostTest] : Browser was opened
+2025-13-02 22:39:44   INFO [pages.LoginPage] : Login page was openned
+2025-13-02 22:39:44   INFO [pages.LoginPage] :  'qaauto'  was inputed into element 
+2025-13-02 22:39:45   INFO [pages.LoginPage] :  '123456qwerty'  was inputed into element 
+2025-13-02 22:39:52   INFO [pages.LoginPage] : Element Proxy element for: DefaultElementLocator 'By.xpath: //button[text()='Sign In']' was clicked
+2025-13-02 22:39:53   INFO [pages.HomePage] : Element [[ChromeDriver: chrome on WINDOWS (437309ab765b4fab9eb6e893ee1f836d)] -> xpath: //button[text()='Sign Out']] is displayed
+2025-13-02 22:39:54   INFO [pages.HomePage] : Element [[ChromeDriver: chrome on WINDOWS (437309ab765b4fab9eb6e893ee1f836d)] -> xpath: //a[@class='btn btn-sm btn-success mr-2']] was clicked
+2025-13-02 22:39:54   INFO [pages.CreateNewPostPage] :  'TR001 CreateNewPostTitle 2025-02-13_22-39-41'  was inputed into element 
+2025-13-02 22:39:54   INFO [pages.CreateNewPostPage] :  'Post Body 06022025'  was inputed into element 
+2025-13-02 22:39:54   INFO [pages.CreateNewPostPage] : Element [[ChromeDriver: chrome on WINDOWS (437309ab765b4fab9eb6e893ee1f836d)] -> xpath: //input [@name='uniquePost']] was clicked
+2025-13-02 22:40:02   INFO [pages.CreateNewPostPage] : Element Proxy element for: DefaultElementLocator 'By.xpath: //button[text()='Save New Post']' was clicked
+2025-13-02 22:40:02   INFO [pages.PostPage] : Element [[ChromeDriver: chrome on WINDOWS (437309ab765b4fab9eb6e893ee1f836d)] -> xpath: //div[@class='alert alert-success text-center']] is displayed
+2025-13-02 22:40:05   INFO [pages.elements.HeaderElement] : Element [[ChromeDriver: chrome on WINDOWS (437309ab765b4fab9eb6e893ee1f836d)] -> xpath: //img[@alt='My profile']] was clicked
+2025-13-02 22:40:06   INFO [pages.LoginPage] : Login page was openned
+2025-13-02 22:40:06   INFO [pages.HomePage] : Element [[ChromeDriver: chrome on WINDOWS (437309ab765b4fab9eb6e893ee1f836d)] -> xpath: //button[text()='Sign Out']] is displayed
+2025-13-02 22:40:06   INFO [pages.HomePage] : User is already logged in
+2025-13-02 22:40:09   INFO [pages.elements.HeaderElement] : Element [[ChromeDriver: chrome on WINDOWS (437309ab765b4fab9eb6e893ee1f836d)] -> xpath: //img[@alt='My profile']] was clicked
+2025-13-02 22:40:11   INFO [pages.MyProfilePage] : Element [[ChromeDriver: chrome on WINDOWS (437309ab765b4fab9eb6e893ee1f836d)] -> xpath: //*[text()='TR001 CreateNewPostTitle 2025-02-13_22-39-41']] was clicked
+2025-13-02 22:40:19   INFO [pages.PostPage] : Element Proxy element for: DefaultElementLocator 'By.xpath: //button[@class='delete-post-button text-danger']' was clicked
+2025-13-02 22:40:19   INFO [pages.MyProfilePage] : Element [[ChromeDriver: chrome on WINDOWS (437309ab765b4fab9eb6e893ee1f836d)] -> xpath: //*[text()='Post successfully deleted.']] is displayed
+2025-13-02 22:40:19   INFO [pages.MyProfilePage] : Post with title TR001 CreateNewPostTitle 2025-02-13_22-39-41 was deleted
+2025-13-02 22:40:25   INFO [postTests.CreateNewPostTest] : Browser was closed
+2025-13-02 22:40:25   INFO [postTests.CreateNewPostTest] : Test finished
+2025-13-02 22:40:25   INFO [postTests.CreateNewPostTest] : ------------
