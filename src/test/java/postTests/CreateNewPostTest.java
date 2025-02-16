@@ -19,11 +19,14 @@ public class CreateNewPostTest extends BaseTest {
                 .checkIsRedirectToCreatePostPage()
                 .enterTitleIntoInputTitle(POST_TITLE)
                 .enterTextIntoInputBody("Post Body 06022025")
-                .clickOnCheckBoxIsThisPostUnique("check") //  set check or uncheck
+               // .selectTextInDropDownAccessByVisibleText("Приватне повідомлення")
+                .selectValueInDropDownAccess("One Person")
+                .setStateInCheckBoxIsThisPostUnique("check") //  set check or uncheck
                 .clickOnButtonSaveNewPost()
                 .checkIsRedirectToPostPage()
                 .checkIsSuccessMessageDisplayed()
                 .checkTextInSuccessMessage("New post successfully created.")
+                .checkTextThisPostWasWrittenIsVisible("One Person")
                 .checkIsThisPostUnique("Is this post unique? : yes") // yes or no
                 .getHeaderElement().clickOnMyProfileButton()
                 .checkIsRedirectToMyProfilePage()

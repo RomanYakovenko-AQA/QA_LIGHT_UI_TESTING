@@ -17,6 +17,10 @@ public class PostPage extends ParentPage {
     @FindBy(xpath = "//p[contains(text(), 'Is this post unique?')]")
     private WebElement isThisPostUnique;
 
+    private String locatorForTextThisPostWasWritten = "//*[contains(text(), '%s')]";
+
+
+
 
 
 
@@ -60,6 +64,12 @@ public class PostPage extends ParentPage {
     public PostPage checkIsThisPostUnique(String expectedState) {
         String actualState = isThisPostUnique.getText();
         Assert.assertEquals("State of checkbox", expectedState, actualState);   //yes or no
+        return this;
+    }
+
+    public PostPage checkTextThisPostWasWrittenIsVisible(String expectedText) {
+       Assert.assertTrue(expectedText + " is not visible",
+               isElementVisible(String.format(locatorForTextThisPostWasWritten, expectedText)));
         return this;
     }
 }
