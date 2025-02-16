@@ -13,7 +13,16 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b57e98c7-15d2-4eb2-98ae-5203a41fadae" name="Changes" comment="19012025" />
+    <list default="true" id="b57e98c7-15d2-4eb2-98ae-5203a41fadae" name="Changes" comment="changes 16_02_2025 part_1">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/log/qalight.log" beforeDir="false" afterPath="$PROJECT_DIR$/log/qalight.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pages/CreateNewPostPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pages/CreateNewPostPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pages/HomePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pages/HomePage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pages/LoginPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pages/LoginPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pages/MyProfilePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pages/MyProfilePage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pages/ParentPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pages/ParentPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pages/PostPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pages/PostPage.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -41,22 +50,22 @@
     &quot;assignee&quot;: &quot;RomanYakovenko-AQA&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/RomanYakovenko-AQA/QA_LIGHT_UI_TESTING.git",
-    "accountId": "3fb81826-72bb-4f06-8a43-93dcefd0aeee"
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/RomanYakovenko-AQA/QA_LIGHT_UI_TESTING.git&quot;,
+    &quot;accountId&quot;: &quot;3fb81826-72bb-4f06-8a43-93dcefd0aeee&quot;
   },
-  "recentNewPullRequestHead": {
-    "server": {
-      "useHttp": false,
-      "host": "github.com",
-      "port": null,
-      "suffix": null
+  &quot;recentNewPullRequestHead&quot;: {
+    &quot;server&quot;: {
+      &quot;useHttp&quot;: false,
+      &quot;host&quot;: &quot;github.com&quot;,
+      &quot;port&quot;: null,
+      &quot;suffix&quot;: null
     },
-    "owner": "RomanYakovenko-AQA",
-    "repository": "QA_LIGHT_UI_TESTING"
+    &quot;owner&quot;: &quot;RomanYakovenko-AQA&quot;,
+    &quot;repository&quot;: &quot;QA_LIGHT_UI_TESTING&quot;
   }
-}]]></component>
+}</component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
@@ -85,8 +94,9 @@
     "JUnit.LoginTestWithPageObject.TR001_validLogin.executor": "Run",
     "JUnit.LoginTestWithPageObject.TR003_invalidPassword (1).executor": "Run",
     "JUnit.LoginTestWithPageObject.executor": "Run",
+    "RunOnceActivity.git.unshallow": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "#3 on 10__02__2025__methods__for__checkBox",
+    "git-widget-placeholder": "14__02__2025",
     "kotlin-language-version-configured": "true",
     "run.code.analysis.last.selected.profile": "pProject Default"
   }
@@ -244,10 +254,52 @@
       <option name="project" value="LOCAL" />
       <updated>1739479720869</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="changes 16_02_2025 part_1">
+      <option name="closed" value="true" />
+      <created>1739725766168</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1739725766168</updated>
+    </task>
+    <task id="LOCAL-00006" summary="changes 16_02_2025 part_1">
+      <option name="closed" value="true" />
+      <created>1739726049703</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1739726049703</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="14_02_2025" />
+                </option>
+              </RecentGroup>
+            </list>
+          </value>
+        </entry>
+        <entry key="User">
+          <value>
+            <list>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="*" />
+                </option>
+              </RecentGroup>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
     <option name="TAB_STATES">
       <map>
         <entry key="MAIN">
@@ -263,7 +315,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="06_02_2025" />
+                        <option value="14_02_2025" />
                       </list>
                     </value>
                   </entry>
@@ -277,7 +329,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="19012025" />
-    <option name="LAST_COMMIT_MESSAGE" value="19012025" />
+    <MESSAGE value="changes 16_02_2025 part_1" />
+    <option name="LAST_COMMIT_MESSAGE" value="changes 16_02_2025 part_1" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/QA_LIGHT_UI_TESTING$Whole_project.ic" NAME="Whole project Coverage Results" MODIFIED="1737301753315" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true">
