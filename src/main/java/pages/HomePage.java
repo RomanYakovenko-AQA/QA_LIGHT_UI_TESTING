@@ -21,6 +21,11 @@ public class HomePage extends ParentPage{
         super(webDriver);
     }
 
+    @Override
+    String getRelativeUrl() {
+        return "/";
+    }
+
     public HeaderElement getHeaderElement() {      //method for getting HeaderElement
         return new HeaderElement(webDriver);
     }
@@ -32,7 +37,7 @@ public class HomePage extends ParentPage{
 
     public HomePage checkIsRedirectToHomePage() {
         Assert.assertTrue("It is not Home page", isButtonSignOutVisible());
-        // TODO checkUrl
+        checkUrl();
         return this;
 
     }
