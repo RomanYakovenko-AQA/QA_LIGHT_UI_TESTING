@@ -13,15 +13,12 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b57e98c7-15d2-4eb2-98ae-5203a41fadae" name="Changes" comment="changes 16_02_2025 part_1">
+    <list default="true" id="b57e98c7-15d2-4eb2-98ae-5203a41fadae" name="Changes" comment="changes 16_02_2025 part_2">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/log/qalight.log" beforeDir="false" afterPath="$PROJECT_DIR$/log/qalight.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pages/CreateNewPostPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pages/CreateNewPostPage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pages/HomePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pages/HomePage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pages/LoginPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pages/LoginPage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pages/MyProfilePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pages/MyProfilePage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pages/ParentPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pages/ParentPage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pages/PostPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pages/PostPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pages/CommonActionsWithElements.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pages/CommonActionsWithElements.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/pages/HomePage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pages/HomePage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/pages/LoginPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pages/LoginPage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/pages/ParentPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pages/ParentPage.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -88,19 +85,19 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "JUnit.CreateNewPostTest.TR001_createNewPost.executor": "Run",
-    "JUnit.LoginTestWithPageObject.TR001_validLogin.executor": "Run",
-    "JUnit.LoginTestWithPageObject.TR003_invalidPassword (1).executor": "Run",
-    "JUnit.LoginTestWithPageObject.executor": "Run",
-    "RunOnceActivity.git.unshallow": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "14__02__2025",
-    "kotlin-language-version-configured": "true",
-    "run.code.analysis.last.selected.profile": "pProject Default"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;JUnit.CreateNewPostTest.TR001_createNewPost.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.LoginTestWithPageObject.TR001_validLogin.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.LoginTestWithPageObject.TR003_invalidPassword (1).executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.LoginTestWithPageObject.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;14__02__2025&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="pages" />
@@ -198,10 +195,10 @@
     </configuration>
     <list>
       <item itemvalue="JUnit.CreateNewPostTest.TR001_createNewPost" />
-      <item itemvalue="JUnit.LoginTestWithPageObject" />
       <item itemvalue="JUnit.LoginTestWithPageObject.TR001_validLogin" />
-      <item itemvalue="JUnit.Whole project" />
       <item itemvalue="JUnit.LoginTestWithPageObject.TR002_invalidLogin" />
+      <item itemvalue="JUnit.LoginTestWithPageObject" />
+      <item itemvalue="JUnit.Whole project" />
     </list>
     <recent_temporary>
       <list>
@@ -270,7 +267,15 @@
       <option name="project" value="LOCAL" />
       <updated>1739726049703</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="changes 16_02_2025 part_2">
+      <option name="closed" value="true" />
+      <created>1739730346556</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1739730346556</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -330,7 +335,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="19012025" />
     <MESSAGE value="changes 16_02_2025 part_1" />
-    <option name="LAST_COMMIT_MESSAGE" value="changes 16_02_2025 part_1" />
+    <MESSAGE value="changes 16_02_2025 part_2" />
+    <option name="LAST_COMMIT_MESSAGE" value="changes 16_02_2025 part_2" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/QA_LIGHT_UI_TESTING$Whole_project.ic" NAME="Whole project Coverage Results" MODIFIED="1737301753315" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true">
