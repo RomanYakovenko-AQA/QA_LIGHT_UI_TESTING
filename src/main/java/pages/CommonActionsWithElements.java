@@ -28,7 +28,7 @@ public class CommonActionsWithElements {
         try {
             webElement.clear();
             webElement.sendKeys(text);
-            logger.info(" '"+ text+"' " + " was inputed into element ");
+            logger.info(" '"+ text+"' " + " was inputed into element " + getElementName(webElement));
         }catch (Exception e){
             printErrorAndStopTest(e);
         }
@@ -38,7 +38,7 @@ public class CommonActionsWithElements {
         try {
             webDriverWait_10.until(ExpectedConditions.elementToBeClickable(webElement));
             webElement.click();
-            logger.info("Element "+ webElement + " was clicked");
+            logger.info("Element "+ webElement + getElementName(webElement)+ " was clicked");
 
         }catch (Exception e){
             printErrorAndStopTest(e);
@@ -48,14 +48,28 @@ public class CommonActionsWithElements {
         try {
             boolean state = webElement.isDisplayed();
             if(state){
-                logger.info("Element " + webElement + " is displayed");
+                logger.info("Element: " + webElement + getElementName(webElement)+ " is displayed");
             }else {
-                logger.info("Element " + webElement + "  is not displayed");
+                logger.info("Element: " + webElement + getElementName(webElement)+ "  is not displayed");
             }
             return state;
         }catch (Exception e){
-          logger.info("Element " + webElement +" is not displayed");
+          logger.info("Elemen:t " + webElement + getElementName(webElement)+ " is not displayed");
           return false;
+        }
+    }
+    protected boolean isElementVisible(WebElement webElement,String elementName){
+        try {
+            boolean state = webElement.isDisplayed();
+            if(state){
+                logger.info("Element: " + webElement + elementName + " is displayed");
+            }else {
+                logger.info("Element: " + webElement + elementName + "  is not displayed");
+            }
+            return state;
+        }catch (Exception e){
+            logger.info("Elemen:t " + webElement + elementName + " is not displayed");
+            return false;
         }
     }
 
@@ -108,12 +122,21 @@ public class CommonActionsWithElements {
         try {
             Select select = new Select(dropDown);
             select.selectByValue(valueForSelect);
-            logger.info("Value " + valueForSelect + " was selected in DropDown");
+            logger.info("Value " + valueForSelect + " was selected in DropDown" + getElementName(dropDown));
         } catch (Exception e) {
             printErrorAndStopTest(e);
         }
     }
+    private String getElementName(WebElement webElement){
+        String elementName ="";
+        try {
+            return webElement.getAccessibleName();
+        }catch (Exception e){
+            logger.error("Can't get element name" + e);
+            return elementName;
+        }
 
 
+}
 }
  
